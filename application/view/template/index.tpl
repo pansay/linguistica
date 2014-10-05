@@ -10,9 +10,10 @@
 </head>
 <body>
     <div id="main">
-        <header>
+        <header class="hoverable">
             <p id="main-title"><a href="<?=$urls['home']?>"><?=$texts['title']?></a></p>
             <p id="main-tagline"><?=$texts['tagline']?></p>
+            <div class="hover-more"><?=$texts['contact']?></div>
         </header>
         <div id="main-content">
             <?php switch ($view) :

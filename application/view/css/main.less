@@ -264,3 +264,19 @@ td {
 th {
     text-align: center;
 }
+
+.hoverable {
+    .hover-more {
+        display: none;
+    }
+    &:hover {
+        .hover-more {
+            display: block;
+        }
+    }
+}
+
+header .hover-more {
+    font-size: .8;
+    text-align: center;
+}
