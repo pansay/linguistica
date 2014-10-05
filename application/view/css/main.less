@@ -1,0 +1,266 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    text-decoration: none;
+}
+
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: normal;
+}
+
+header:before,
+header:after {
+    content: " ";
+    display: table;
+}
+
+header:after {
+    clear: both;
+}
+
+body {
+    background: #fdfdfd;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+#main {
+    margin: 0 auto;
+}
+
+header {
+    background: #444;
+    color: #c5c5c5;
+    padding: .5em;
+
+    #main-title {
+        text-transform: uppercase;
+        float: left;
+        letter-spacing: .2em;
+    }
+
+    #main-tagline {
+        float: right;
+        text-transform: uppercase;
+        font-size: .8em;
+        padding: .25em 0;
+    }
+}
+
+#main-content {
+    max-width: 850px;
+    margin: 3em auto;
+    padding: 0 2em;
+}
+
+.post-content,
+.page {
+    a {
+        color: #44a;
+
+        &:hover {
+            border-bottom: 1px dashed #55e;
+        }
+    }
+}
+
+.post-info,
+.page-info {
+    text-align: center;
+    margin: 0 0 1em 0;
+
+    h1 {
+        display: block;
+        text-align: center;
+        font-size: 1.5em;
+        text-transform: uppercase;
+        letter-spacing: .1em;
+    }
+
+    .dateline {
+        display: block;
+        text-align: center;
+        font-size: .6em;
+        text-transform: uppercase;
+        letter-spacing: .1em;
+    }
+}
+
+#posts article,
+article#post {
+
+    p {
+        margin: .5em 0;
+        text-align: justify;
+    }
+
+    h2 {
+        font-size: 1.2em;
+        margin: .5em 0 .5em 0;
+        font-weight: bold;
+    }
+
+    h3 {
+        font-size: 1.1em;
+        margin: .5em 0 .5em 0;
+        font-style: italic;
+    }
+
+    ol {
+        padding: 0 0 0 30px;
+
+        >li {
+            list-style: decimal;
+            margin-bottom: 1em;
+        }
+    }
+
+    ul {
+        padding: 0 0 0 20px;
+
+        >li {
+            list-style: square;
+            margin-bottom: 1em;
+        }
+    }
+
+    blockquote {
+        position: relative;
+        margin: 1.5em;
+        padding: 1em;
+        background: #f1f1f1;
+        font-size: .85em;
+        line-height: 1.5;
+
+        &:before {
+            position: absolute;
+            top: -.5em;
+            left: -.5em;
+            font-size: 3em;
+            color: #f1f1f1;
+            content: "\201C";
+        }
+        &:after {
+            position: absolute;
+            bottom: -.5em;
+            right: -.5em;
+            font-size: 3em;
+            color: #f1f1f1;
+            content: "\201E";
+        }
+
+        p {
+            margin: 0;
+        }
+
+        li {
+            margin: 0;
+        }
+    }
+}
+
+#posts {
+    margin: 4em 0 0;
+
+    >ul>li {
+        padding-bottom: 2em;
+    }
+}
+
+article#post {
+    margin-top: 4em;
+}
+
+footer {
+    max-width: 850px;
+    margin: 0 auto 1em auto;
+    position: relative;
+}
+
+    #footer-inner {
+        width: 100%;
+    }
+
+    .footer-links,
+    .pagination {
+        min-height: 1em;
+    }
+
+        .footer-links {
+            float: left;
+            width: 60%;
+            text-align: center;
+
+            a {
+                display: inline-block;
+            }
+        }
+
+        .pagination {
+            font-size: 42px;
+            letter-spacing: -9px;
+            font-family: arial;
+
+            a {
+                display: inline-block;
+                width: 20px;
+            }
+        }
+
+        .pagination-left {
+            float: left;
+            width: 20%;
+            text-align: left;
+        }
+
+        .pagination-right {
+            float: left;
+            width: 20%;
+            text-align: right;
+        }
+
+
+#posts-lists {
+    li {
+        clear: left;
+        height: 1.5em;
+    }
+        .time {
+            float: left;
+            margin: 0 1em 0 0;
+            font-style: italic;
+        }
+
+        a {
+            display: block;
+            float: left;
+        }
+}
+
+table {
+    background: #000;
+    border-spacing: 1px;
+}
+
+th,
+td {
+    background: #fff;
+    padding: 5px;
+}
+
+th {
+    text-align: center;
+}
