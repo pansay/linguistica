@@ -7,6 +7,8 @@
     <meta name="keywords" content="<?=$texts['keywords']?>" />
     <link rel="stylesheet" href="<?=$urls['style']?>" />
     <link rel="alternate" type="application/rss+xml" href="<?=$urls['rss']?>" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 <body>
     <div id="main">
