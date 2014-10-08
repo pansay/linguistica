@@ -11,7 +11,7 @@ The French Academy (L’Académie française [fr]) was founded by the Cardinal R
 
 Thus, they're pretty harmless. Sometimes they're right, sometimes not. Their main concern, though, appears to be a genuine care for the purity of the language. Somehow, that seems to require the purchase of ugly green jackets and extremely expensive swords. Yes.
 
-### The International Organisation of La Francophonie [en] (sic)
+### The International Organisation of La Francophonie ([en], sic)
 
 With an 80 million euro budget financed by governments, their aim seems to be the promotion of some vague idea of French speakers helping others French speakers. I don't get it, and I don't like them.
 
