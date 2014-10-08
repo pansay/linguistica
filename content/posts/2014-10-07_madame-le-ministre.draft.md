@@ -9,10 +9,16 @@ http://www.lefigaro.fr/politique/le-scan/citations/2014/10/07/25002-20141007ARTF
 >L’emploi du féminin dans La ministre, et dans Madame la Ministre, qui est apparu en 1997, constitue une faute d’accord résultant de la confusion de la personne et de la fonction.
 > &ndash; [The Immortals](http://www.academie-francaise.fr/le-dictionnaire-la-9e-edition/exemples-de-remarques-normatives)
 
-But remember [who rules over French language](french-language)
+Thus spake The Immortals. I think that's clear... But remember [who rules over French language](french-language): they have no legal authority, the French parliament has.
 
+Beyond politics, why are the Immortals right?
 
-cet homme est une personne sympathique
+Because French is a language with grammatical genders, and they're unrelated to biological gender of persons. Like for the German Mädchen [de], which is gramatically neuter, although it can designate exclusively biologically female persons.
+
+A few all-too-quickly forgotten examples will make this a lot clearer:
+
+* personne [fr]: person [en], feminine word. When you need to talk about a male person, you write *cet homme est une personne sympathique* [fr].
+* 
 cette femme est un thon
 
 I wonder, is there even *one* case of a feminine word having a proposed "masculinization"? Didn't think so.
