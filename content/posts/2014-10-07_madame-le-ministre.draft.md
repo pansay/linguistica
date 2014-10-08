@@ -39,7 +39,7 @@ http://www.friesian.com/language.htm
 
 other post ?
 
-Who rules over French language?
+
 
 ->languages should evolve naturally, cf English
 + posts
@@ -47,13 +47,3 @@ Who rules over French language?
 - priorities: learn English
 - my point of view on all that
 
-
-http://www.culture.gouv.fr/culture/dglf/
-
-The French Academy (L’Académie française [fr]) was founded by the Cardinal Richelieu (the bad guy from the Three Musketeers), and they're called the Immortals (like the bad guys from 300). The members have been chosen by *cooptation* ever since. Legally, the institution is a Foundation with particular rules, but it doesn't seem to be getting much financing from the French government
-http://www.europe1.fr/economie/academie-francaise-etre-immortel-combien-ca-coute-1993131
-
-No legal power
-https://en.wikipedia.org/wiki/Language_policy_in_France#Acad.C3.A9mie_fran.C3.A7aise
-
-They're pretty harmless.
