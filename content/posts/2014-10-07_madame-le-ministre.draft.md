@@ -9,6 +9,7 @@ http://www.lefigaro.fr/politique/le-scan/citations/2014/10/07/25002-20141007ARTF
 >L’emploi du féminin dans La ministre, et dans Madame la Ministre, qui est apparu en 1997, constitue une faute d’accord résultant de la confusion de la personne et de la fonction.
 > &ndash; [The Immortals](http://www.academie-francaise.fr/le-dictionnaire-la-9e-edition/exemples-de-remarques-normatives)
 
+But remember [who rules over French language](french-language)
 
 
 cet homme est une personne sympathique
@@ -35,15 +36,3 @@ It’s worth remembering, too, that language change does not always come from a 
 
 
 http://www.friesian.com/language.htm
-
-
-other post ?
-
-
-
-->languages should evolve naturally, cf English
-+ posts
-- how to learn languages
-- priorities: learn English
-- my point of view on all that
-
