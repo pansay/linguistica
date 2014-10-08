@@ -29,6 +29,9 @@ This is already more about jacobinisme [fr] (the central power of Paris over Fra
 
 Let me translate that for you: *In order to avoid that people who know what they're talking about use relevant and precise words, spontaneously adopted by them and then the general population, we shall use your tax money in order to foster bunches of bureaucrats. Those bureaucrats will create artificial words that, supposedly, "sound" more French. The new words will usually mostly sound uglier rather then Frenchier. The only objective difference that makes them more French is that only the French will use them. Assuming they do. That is, assuming we somehow coerce them into it or pressure them or subsdizize it. That is all.*
 
+http://fare.livejournal.com/87966.html
+
+Why esperanto is a bad idea, and the French Academy's job is destructive: languages must evolve naturally.
 
 ## The Quebec government
 
