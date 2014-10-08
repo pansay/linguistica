@@ -17,9 +17,12 @@ With an 80 million euro budget financed by governments, their aim seems to be th
 
 ## The French government
 
-http://www.culture.gouv.fr/culture/dglf/
 
-This is already more about jacobin [fr] power of Paris than language.
+><p>And <i>académiciens</i> are not alone in their attempts to halt the sabotage of the French language: other authorities, with considerably more legal power, are hard at work too. The French government has introduced various pieces of legislation over the past forty years, the most far-reaching being the 1994 <a href="http://www.humanities360.com/index.php/toubon-law-and-the-languages-of-france-1649/">Toubon Law</a> which ruled that the French language must be used – although not necessarily exclusively – in a range of everyday contexts. Two years later, the French ministry of culture and communication established the <a href="http://www.culture.gouv.fr/culture/dglf/">Commission générale de terminologie et de néologie</a>, whose members, supervised by representatives from the Académie, are tasked with creating hundreds of new French words every year (such as <i>resserrement de credit*</i> and <i>poule finale*</i>) to combat the insidious and irresistible onslaught of Anglo-Saxon terminology. French speakers point out that in practice, most of these creations are not well-known and, if they ever leap off the administrative pages of the <a href="http://www.journal-officiel.gouv.fr/">Journal officiel</a>, rarely survive in the wild. There are, however, a few notable exceptions, such as <a title="Logiciel" href="http://www.oxforddictionaries.com/translate/french-english/logiciel">logiciel</a> and – to an extent – <a title="Courriel" href="http://www.oxforddictionaries.com/translate/french-english/courriel">courriel</a>, which have caught on: the English takeover is not quite yet a <a title="Fait accompli" href="http://www.oxforddictionaries.com/definition/english/fait-accompli">fait accompli</a>.</p>
+>
+>http://blog.oxforddictionaries.com/2014/03/academie-francaise/
+
+This is already more about jacobinisme [fr] (the central power of Paris over France, crushing local dialects and cultures), than about mere linguistic concerns.
 
 ## The Quebec government
 
