@@ -26,4 +26,8 @@ This is already more about jacobinisme [fr] (the central power of Paris over Fra
 
 ## The Quebec government
 
+>It was the Québécois who pioneered the feminization of job titles (with “new” versions such as professeure and ingénieure) in the 1970s.
+>
+>http://blog.oxforddictionaries.com/2014/03/academie-francaise/
+
 Now those are really the guys with issues.
