@@ -19,7 +19,7 @@ Of course, they *do* hate any sort of competition from other languages, especial
 
 Considering the equivalently *babelist* [en](definition upcoming in a future post *ici-même* [fr]) proposal of subsidizing half-dead dialects by tax-money *perfusion* [fr], I daresay that *we have no dog in this fight* [en].
 
-### The International Organisation of La Francophonie ([en], sic)
+## The International Organisation of La Francophonie ([en], sic)
 
 With an 80 million euro budget financed by governments, their aim seems to be the promotion of some vague idea of French speakers helping other French speakers. I don't get it.
 
@@ -41,7 +41,7 @@ As a French emigrant (or shall I say *[émigré](http://en.wikipedia.org/wiki/%C
 
 >Mon ami Gavin m'a appris que l'académie française — ou tout autre dépotoir de Picrocholes rances — avait <a href="http://blog.xbluechip.net/index.php?p=1018&amp;c=1" rel="nofollow">décrété</a>, loi Toubon à l'appui, que dorénavant il ne faudrait plus dire <q>blog</q>, mais <q>bloc-note</q> ou simplement <q>bloc</q>. Ma réponse est: <i>FUCK YOU WITH A RUSTY CHAINSAW, YOU STERILE SENILE TWITS!</i> — et comme ce n'est pas du français, vous n'avez aucune autorité à faire valoir. Toutefois, puisque vous êtes trop microcéphales pour le comprendre si ce n'est pas en français, je vous le redis ainsi: <i>ALLEZ VOUS FAIRE ENCULER, PUTAINS DE PUCERONS FASCISTES DÉCRÉPIS!</i> Les pires sont bien sûr les fientes de pou qui des deux côtés de l'Atlantique font appliquer les diktats nauséabonds des prétendus <q>défanceurs la Lang-fransèze</q>. Contre les commissaires politiques et autres morts-vivants, je recommande <a href="http://www.deadites.net/" rel="nofollow">la tronçonneuse et le fusil à double canon</a>. Y en a pas beaucoup qui sont capables de me faire jurer sur mon blo<b>g</b>. Ils en sont.
 >
-> &ndash; [Mots de quatre lettres]([http://fare.livejournal.com/87966.html)
+> &ndash; Faré, "[Mots de quatre lettres](http://fare.livejournal.com/87966.html)"
 
 Even if you don't read French, don't worry: the essential of his message is in uppercase English.
 
