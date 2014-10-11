@@ -1,32 +1,33 @@
 Madame le Ministre
 ===
 
-On 2014-10-06 (ISO 8601), the French MP [en] Julien Aubert referred to the President of the French Parliament (*Assemblée nationale* [fr]) as *Madame le président* [fr]. The President, whose gender happens to be female, insisted for him to refer to her as *Madame la présidente*. He refused, and was [punished](http://www.lefigaro.fr/politique/le-scan/citations/2014/10/07/25002-20141007ARTFIG00046-madame-le-president-insiste-a-l-assemblee-un-depute-ump-il-est-sanctionne.php) by a *docking of pay* of a quarter of his montly *indemnité parlementaire* [fr]. Previously, he had already committed the same sin by using *Madame le Ministre* [fr], and not *Madame la Ministre*, to address a female Minister.
+On 2014-10-06 (ISO 8601), the French MP [en] Julien Aubert referred to the President of the French Parliament (*Assemblée nationale* [fr]) as *Madame le président* [fr]. The President, whose gender happens to be female, insisted for him to refer to her as *Madame la présidente*. He refused, and was [punished](http://www.lefigaro.fr/politique/le-scan/citations/2014/10/07/25002-20141007ARTFIG00046-madame-le-president-insiste-a-l-assemblee-un-depute-ump-il-est-sanctionne.php) by a *docking of pay* of a quarter of his monthly *indemnité parlementaire* [fr]. Previously, he had already committed the same sin by using *Madame le Ministre* [fr], and not *Madame la Ministre*, to address a female Minister.
 
 The case is fascinating because he, in effect, got "fined" for applying the correct rules of French grammar, as maintained by the Immortals:
 
 >MINISTRE n. m. {XIIe siècle. Emprunté du latin minister, « serviteur ».}
 >
 >L’emploi du féminin dans La ministre, et dans Madame la Ministre, qui est apparu en 1997, constitue une faute d’accord résultant de la confusion de la personne et de la fonction.
+>
 > &ndash; [The Immortals](http://www.academie-francaise.fr/le-dictionnaire-la-9e-edition/exemples-de-remarques-normatives)
 
-Thus spake The Immortals. I think it's pretty clear... But remember [who rules over French language](who-rules-over-french-language): they have no legal authority, the French Parliament has.
+Thus spake the Immortals. I think it's pretty clear... But remember [who rules over French language](who-rules-over-french-language): they have no legal authority, the French Parliament has.
 
 In 2002 already, the Immortals foresaw that conflict:
 
 >L’application ou la libre interprétation de « règles » de féminisation édictées, de façon souvent arbitraire, par certains organismes français ou francophones, a favorisé l’apparition de nombreux barbarismes.
 >
-> &ndash; (Féminisation des noms de métiers, fonctions, grades et titres)[http://www.academie-francaise.fr/actualites/feminisation-des-noms-de-metiers-fonctions-grades-et-titres]
+> &ndash; [Féminisation des noms de métiers, fonctions, grades et titres](http://www.academie-francaise.fr/actualites/feminisation-des-noms-de-metiers-fonctions-grades-et-titres)
 
-*(Barbarisme)[http://www.cnrtl.fr/lexicographie/barbarisme]* [fr], yes: a mistake so blatant only a foreigner could commit it (from the greek β α ρ ϐ α ρ ι σ μ ο ̀ ς [el]). And we can presume that by "*certains organismes français*" [fr], they most certainly meant the French Parliament.
+*[Barbarisme](http://www.cnrtl.fr/lexicographie/barbarisme)* [fr], yes: a mistake so blatant only a *foreigner* [en] could commit it (from the greek β α ρ ϐ α ρ ι σ μ ο ̀ ς [el]). And we can presume that by "*certains organismes français*" [fr], they most certainly meant the French Parliament.
 
 But beyond politics and *argumentum ab auctoritate* [la] why are the Immortals right?
 
-Because French is a language with *grammatical genders* [en] and they're unrelated to *biological gender* of persons. Indeed, the word *genre* [fr] in French has only that grammatical meaning, and not the biological-male-or-female meaning it has as well in English, which translates as *sexe* [fr], the same as *biological sex* [en]. Of course, in English the word also includes "social gender", as in "gender studies", a meaning which neither French word has. Thus, once the "gender studies" crossed the Atlantic, the French saw the birth of the anglicism *genre*, as in "études genre" [fr]. A quite unfortunate turn of events for some, who deride the concept as *théorie du Dgendeur* [fr], which is the French transcription of the English *gender* [en]. Usually, the concept is criticized both as an anglicism *and*, on a deeper level, as being a feminist construct contrary to our genetic programming as either male or female (gender thus being a natural reality, not a social construct), thus neither a valid word nor a valid concept.
+Because French is a language with *grammatical genders* [en] and they're unrelated to *biological gender* of persons. Indeed, the word *genre* [fr] in French has only that grammatical meaning, and not the biological-male-or-female meaning it has as well in English, which translates as *sexe* [fr], the same as *biological sex* [en]. Of course, in English the word also includes "social gender", as in "gender studies", a meaning which neither French word has. Thus, once the "gender studies" crossed the Atlantic, the French witnessed the birth of the anglicism *genre*, as in "études genre" [fr]. A quite unfortunate turn of events for some, who deride the concept as *théorie du Dgendeur* [fr], which is the French transcription of the English *gender* [en]. Usually, the concept is criticized both as an anglicism *and*, on a deeper level, as being a feminist construct contrary to our genetic programming as either male or female (gender thus being a natural reality, not a social construct), thus neither a valid word nor a valid concept.
 
 Indeed, it's probably no coincidence that feminists try to substitute the social meaning of gender as the only valid one, and in their attempt to do so, try to destroy *both* the other meanings of the words, that is, the concepts of biological gender *and* grammatical gender. And therefore, it is no coincidence either that anti-feminists try to defend both the grammatical gender and the natural gender, against the onslaught of social gender.
 
-Anyway, back to grammar. A simple example of grammatical gender is the German *das Mädchen* [de], which is gramatically neuter, although it can designate exclusively biologically female persons. In French, however, grammatical genders are only male or female, not neuter. But like in German, biological and grammatical genders can be *unrelated* (like for inanimate objects, who can be either gender), or even contrary. Thus, not only are there French masculine words who designate both male and female persons, and feminine words which can designate both male and female persons, but, furthermore, like the German neuter word who designates only females, there are French masculine words which can designate only female persons, and feminine words which can designate only male persons.
+Anyway, back to grammar. A simple example of grammatical gender is the German *das Mädchen* [de], which is gramatically neuter, although it can designate exclusively biologically female persons. In French, however, grammatical genders are only male or female, not neuter. But like in German, biological and grammatical genders can be *unrelated* (like for inanimate objects, who can be either gender), or even *contrary*. Thus, not only are there French masculine words who designate both male and female persons, and feminine words which can designate both male and female persons, but, furthermore, like the German neuter word who designates only females, there are French masculine words which can designate only female persons, and feminine words which can designate only male persons.
 
 A few all-too-quickly forgotten examples will make this a lot clearer:
 
