@@ -11,6 +11,10 @@ Le bas Valais, la partie supérieure du Val d’Aoste en Piémont, la Maurienne 
 À cinq heures et demie, nous traversions le bourg de Martigny, où je ne vis rien de remarquable que trois ou quatre crétins, qui, assis devant la porte de la maison paternelle, végétaient stupidement au soleil levant. — (Alexandre Dumas, Impressions de voyage, La Revue des Deux Mondes T.1, 1833)
 http://fr.wiktionary.org/wiki/cr%C3%A9tin
 
+If you've ever been to Valais, you'll understand.
+http://desencyclopedie.wikia.com/wiki/Valais
+
+https://www.youtube.com/user/RomandsTV
 
 
 ![la loi de dieu et bonne](manifpourtous.jpg)
