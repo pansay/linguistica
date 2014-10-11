@@ -19,5 +19,3 @@ politique[fr]
 + posts
 - how to learn languages
 - priorities: learn English
-- my point of view on all that
-
