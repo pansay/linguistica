@@ -19,7 +19,7 @@ Of course, they *do* hate any sort of competition from other languages, especial
 
 Considering the equivalently *babelist* [en](definition upcoming in a future post *ici-même* [fr]) proposal of subsidizing half-dead dialects by tax-money *perfusion* [fr], I daresay that *we have no dog in this fight* [en].
 
-## The International Organisation of La Francophonie ([en], sic)
+## The International Organisation of La Francophonie [en] (sic)
 
 With an 80 million euro budget financed by governments, their aim seems to be the promotion of some vague idea of French speakers helping other French speakers. I don't get it.
 
