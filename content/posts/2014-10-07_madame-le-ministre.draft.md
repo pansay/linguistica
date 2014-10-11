@@ -42,3 +42,7 @@ It’s worth remembering, too, that language change does not always come from a 
 
 
 http://www.friesian.com/language.htm
+
+http://www.causeur.fr/assemblee-madame-le-president-vous-exagerez-29631.html
+
+http://www.lepoint.fr/societe/parlez-vous-le-mazetier-01-02-2013-1622842_23.php
