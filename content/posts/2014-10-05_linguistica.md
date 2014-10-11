@@ -1,12 +1,12 @@
 Lingüística
 ===
 
-Lingüística is a blog about words, concepts, languages, linguistics.
+*Lingüística* is a blog about words, concepts, languages, linguistics.
 
 Why the name? Because:
 
-* lingüística [es];
-* linguistica [la].
+* *lingüística* [es];
+* *linguistica* [la].
 
 ## Format
 
@@ -14,7 +14,9 @@ The usual format will most likely be akin to a "word of the day" style daily pos
 
 ## Conventions
 
-I shall write the language of particular words using their [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), e.g. : lingüística [es], linguistica [la].
+I shall write the language of particular words using their [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), e.g. : *lingüística* [es], *linguistica* [la]. Even when writing English words, I'll use this format to annotate all language specific word-concepts (words, expressions, concepts, whose translation might not be straightforward), such as *course of action* [en].
+
+Later, I might use this annotation to allow searching the blog by language and by word-concept-expression.
 
 ## Links
 

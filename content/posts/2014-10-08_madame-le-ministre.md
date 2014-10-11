@@ -32,37 +32,20 @@ A few all-too-quickly forgotten examples will make this a lot clearer:
 
 - *personne* [fr]: *person* [en], feminine word which can designate either male or female persons. When you need to talk about a male person, you write *cet homme est une personne sympathique* [fr].
 - *thon* [fr]: *fat woman* [en], pejorative word which is masculine but can designate only females. Thus, you write: *cette femme est un thon* [fr].
+- *recrue* [fr]: *recruit* [en], especially in the *male conscript* sense. Since conscription usually only applies to males (of course, [that kind of discrimination](http://thoughtcatalog.com/janet-bloomfield/2014/08/5-legal-rights-women-have-that-men-dont/) is much less worrisome than fake grammar issues), it's a feminine word used mostly to designate male persons.
+- *star* [fr]: *star* [en], an anglicism, and it's feminine. Both males and females will thus write *je serai une star* [fr] (*I will be a star* [en]).
+- *[dupe](http://www.cnrtl.fr/lexicographie/dupe)* [fr]: to be the *dupe* [fr] of someone means having been a *naïve* [fr] person that got tricked by another person. It's masculine, and it can happen to both males and females.
+- *[racaille](http://www.cnrtl.fr/definition/racaille)* [fr]: means a group of loathsome people. Recently, the meaning of the word drifted towards loathsome individuals (and not only the group thereof). Is that a synecdoche? Either way, it's feminine, but mostly designates males. When you wish to refer to a female *racaille* [fr], you usually specify, e.g. [la] *fille racaille* [fr] (*racaille* girl).
+- *mannequin* [fr] and *top model* [fr]: a model, usually female. Both words are masculine, the latter being an anglicism on top of it.
+- *ange* [fr]: masculine word, can designate both males and females. And of course, emphatically, the masculinity of the word does *not* settle the old question of the gender of angels. (*Discuter sur le sexe des anges* [fr], to debate the gender of angels, is the French way of saying *[How many angels can dance on the head of a pin?](http://en.wikipedia.org/wiki/How_many_angels_can_dance_on_the_head_of_a_pin%3F)* [en]).
 
+And, we can add *last but not least* [en], or *to wit* [en]:
+- *ministre* [fr]: *minister* [en], masculine word which can designate both male and female politicians, thus you write *madame le Ministre* [fr].
 
-
-
-recrue
-star
-dupe
-racaille
-
-
-
-mannequin
-top model
-ange
-thon
+I wonder, is there even *one* case of a feminine word having a proposed "masculinization"? Didn't think so.
 
 Therefore, were it not political, those women with nothing better to do would suggest a complete reform of French grammar, in order to make it like English (only more so, since there are exceptions in English), by having a clear separation of neuter for inanimate objects and concepts, feminine for female persons, and masculine for male persons.
 
 Of course, this raises the obvious questions of trangender persons, or hermaphrodites. The next step would then be to avoid gender altogether, and have a gender-free language. That is, a language where grammatical gender doesn't depend on biological sex, since that may be undetermined. Like a language, maybe, where a person's job title doesn't depend on their genitals, that is, they remain "le président" [fr] whether they're male, female, hermaphrodite, or transgender.
 
 Oh, wait.
-
-I wonder, is there even *one* case of a feminine word having a proposed "masculinization"? Didn't think so.
-
-
-http://blog.oxforddictionaries.com/2014/03/academie-francaise/
-It’s worth remembering, too, that language change does not always come from a conservative – or a European – perspective. It was the Québécois who pioneered the feminization of job titles (with “new” versions such as professeure and ingénieure) in the 1970s. Two decades later, the Institut National de la Langue française in France issued a statement giving its citizens carte blanche to choose between this “Canadian” approach and the “double-gender” practice (allowing la professeur for a female teacher, for example). While the Académie française maintain that such “arbitrary feminization” is destroying the internal logic of the language, research among French speakers shows that the “double-gender” approach is gaining in popularity, but also that where there was once clarity, there is now uncertainty over usage.
-
-
-http://www.friesian.com/language.htm
-
-http://www.causeur.fr/assemblee-madame-le-president-vous-exagerez-29631.html
-
-http://www.lepoint.fr/societe/parlez-vous-le-mazetier-01-02-2013-1622842_23.php
