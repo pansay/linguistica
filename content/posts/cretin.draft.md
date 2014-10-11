@@ -21,3 +21,9 @@ https://www.youtube.com/user/RomandsTV
 ![la loi de dieu et bonne](manifpourtous2.jpg)
 
 *typyical crétins [fr] in their natural habitat*
+
+
+- a dumb person
+- a dumb Christian person
+- a dumb Christian person from the Alps
+- a dumb Christian person from the Haut-Valais Region of the Valais canton in the Swiss Alps
