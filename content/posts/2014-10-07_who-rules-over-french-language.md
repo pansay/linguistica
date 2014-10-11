@@ -21,7 +21,13 @@ Considering the equivalently *babelist* [en](definition upcoming in a future pos
 
 ## The International Organisation of La Francophonie [en] (sic)
 
-With an 80 million euro budget financed by governments, their aim seems to be the promotion of some vague idea of French speakers helping other French speakers. I don't get it.
+With an 80 million euro budget financed by governments, their aim seems to be the promotion of some vague idea of French speakers helping other French speakers, and associating only with other French speakers. A sort of *préférence nationale* [fr] applied, *ad absurdum* [la], abroad? I don't get it.
+
+Their *armed branch* [en] (or *branche armée* [fr]) is probably the *Club Med*. Indeed, it seems the very embodiment of the *Francophonie* [fr] spirit: that when you travel to a "foreign" [en] (i.e. [la]: non-France) country, your first priority should be to find your fellow Frenchmen, and avoid, at all costs, any sort of association with the local, *indigenous* [en] population. I've personnally been the unwilling witness of French tourists addressing everyone in French in the middle of Spain, and wondering what *paella* [es] is and whether it's edible. Your best course of action is to answer in Spanish, whether you speak French or not.
+
+Of course, said behavior raises the obvious question: why then leave the sacred motherland *to begin with* [en]? Indeed, a person moving (even temporarily) from France to a non-France country would appear as silly as [the proverbial Polish emigrant](https://www.youtube.com/watch?v=0RDLqb3umsw) who left a country *packed with* [en] ponies for a *non-pony* [en] country.
+
+As I was saying: I don't get it.
 
 ## The French government
 
@@ -56,3 +62,5 @@ Oh and yes, almost forgot: those are also the guys who pretend to defend the Fre
 >It was the Québécois who pioneered the feminization of job titles (with “new” versions such as professeure and ingénieure) in the 1970s.
 >
 > &ndash; [Can the Académie française stop the rise of Anglicisms in French?](http://blog.oxforddictionaries.com/2014/03/academie-francaise/)
+
+If you ever move to Canada, I'd say avoid Quebec. Especially if you do speak French.
