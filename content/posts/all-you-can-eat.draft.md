@@ -16,3 +16,6 @@ dis·cre·tion noun \dis-ˈkre-shən\
 : the quality of being careful about what you do and say so that people will not be embarrassed or offended : the quality of being discreet
 
 http://www.merriam-webster.com/dictionary/discretion
+
+
+(And of course, let's not forget the difference between discrete and discreet...)
