@@ -1,8 +1,9 @@
 Madame le Ministre
 ===
 
+On 2014-10-06 (ISO 8601), the French MP [en] Julien Aubert referred to the President of the French parliament (*Assemblée nationale* [fr]) as *Madame le président* [fr]. The President, whose gender [en] happens to be female, insisted for him to refer to her as *Madame la présidente*. He refused, and was [punished](http://www.lefigaro.fr/politique/le-scan/citations/2014/10/07/25002-20141007ARTFIG00046-madame-le-president-insiste-a-l-assemblee-un-depute-ump-il-est-sanctionne.php) by a *docking of pay* of a quarter of his montly *indemnité parlementaire* [fr]. Previously, he had already committed the same sin by using *Madame le Ministre* [fr], and not *Madame la Ministre*, to address a female Minister.
 
-http://www.lefigaro.fr/politique/le-scan/citations/2014/10/07/25002-20141007ARTFIG00046-madame-le-president-insiste-a-l-assemblee-un-depute-ump-il-est-sanctionne.php
+The case is fascinating because he, in effect, got "fined" for applying the correct rules of French grammar, as maintained by the Immortals:
 
 >MINISTRE n. m. {XIIe siècle. Emprunté du latin minister, « serviteur ».}
 >
@@ -11,7 +12,15 @@ http://www.lefigaro.fr/politique/le-scan/citations/2014/10/07/25002-20141007ARTF
 
 Thus spake The Immortals. I think that's clear... But remember [who rules over French language](french-language): they have no legal authority, the French parliament has.
 
-Beyond politics, why are the Immortals right?
+In 2002 already, the Immortals foresaw that conflict:
+
+>L’application ou la libre interprétation de « règles » de féminisation édictées, de façon souvent arbitraire, par certains organismes français ou francophones, a favorisé l’apparition de nombreux barbarismes.
+>
+> &ndash; (Féminisation des noms de métiers, fonctions, grades et titres)[http://www.academie-francaise.fr/actualites/feminisation-des-noms-de-metiers-fonctions-grades-et-titres]
+
+*(Barbarisme)[http://www.cnrtl.fr/lexicographie/barbarisme]* [fr], yes: a mistake so blatant only a foreigner could commit it (from the greek β α ρ ϐ α ρ ι σ μ ο ̀ ς [el]). And we can presume that by "*certains organismes français*" [fr], they most certainly mean the French Parliament.
+
+But beyond politics and *argumentum ab auctoritate* [la] why are the Immortals right?
 
 Because French is a language with grammatical genders, and they're unrelated to biological gender of persons. Like for the German Mädchen [de], which is gramatically neuter, although it can designate exclusively biologically female persons.
 
