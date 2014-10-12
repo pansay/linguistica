@@ -1,4 +1,4 @@
-Minestra riscaldata i trombamici
+Minestra riscaldata e trombamici
 ===
 
 Italian being the language of romance, of course it would have word-concepts to handle specific cases that can arise in this area. Thus, enter the saying *la minestra riscaldata non è mai buona* [it] apparently, from Venetian dialect, *la menestra riscaldada no la é mai bona*. A variant that made it all the way up to English speakers, though less known by true Italians, is *[cavoli riscaldati](http://www.thoughtfultravelwriter.com/2013/05/speaking-in-tongues-cavoli-riscaldati.html)* [it].
