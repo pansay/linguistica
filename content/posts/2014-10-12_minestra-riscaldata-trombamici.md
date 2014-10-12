@@ -7,10 +7,14 @@ It means, *a reheated soup is never good* [en], that is, you should not try to r
 
 Of course, for the same reasons, the Italians, God bless them, also gave us the beautiful *trombamici* [it] (*trombamico* [it], *trombamica* [it], *trombamici* [it], *trombamiche* [it]), which means, literally *fuck friends* [en], or, as I'd prefer in English, *sex buddies* [en].
 
-They even have the [Ten Golden Rules of the Perferct Fuck Friend](http://corrieredelsud.altervista.org/10-regole-doro-perfetto-trombamico-non-puoi-non-saperle/), and an explanatory table, included, I suppose, in every grammar textbook of Italy:
+They even have the [Ten Golden Rules of the Perfect Fuck Friend](http://corrieredelsud.altervista.org/10-regole-doro-perfetto-trombamico-non-puoi-non-saperle/), and an explanatory table, included, I suppose, in every mid-school sex-ed textbook of Italy (click for hi-res version):
 
-[![trombamici - prospetto dei vantaggi](trombamici-vantaggi.jpg)]((images/trombamici-vantaggi-large.jpg))
+[![trombamici - prospetto dei vantaggi](trombamici-vantaggi.jpg)](images/trombamici-vantaggi-large.jpg)
 
-[hi-res-version](images/trombamici-vantaggi-large.jpg)
+All you need to know is that *farlo* [it] means *do it* [en].
 
-(All you need to know is that *farlo* [it] means *do it* [en].)
+I should also mention that the Italian former Prime Minister,  *Il Cavaliere*, one of the most powerful men *urbis et [orbis]((http://www.forbes.com/lists/2009/20/power-09_Silvio-Berlusconi_9SKC.html)* [la], considered renaming his political party to  *[Forza Gnocca](https://www.youtube.com/watch?v=r-hJzzlMKMM)* [it], which translates as *[Go Pussy](http://www.theguardian.com/world/2011/oct/07/berlusconi-go-pussy-quip-outrage)* [en].
+
+*[Silvio il grande](http://www.corriere.it/politica/13_luglio_01/manifestazione-arcore-sostegno-berlusconi-Pdl_a9f114f6-e26f-11e2-b962-140e725dd45c.shtml)* [it] (*Silvio the Great* [en]) is also known for having gotten himself into a scandal for [having sex with a minor prostitute](http://en.wikipedia.org/wiki/Silvio_Berlusconi_prostitute_trial), which, of course, *sports* [en] the beautiful name of *Ruby Rubacuori* [it], *Ruby the Heartstealer* [en].
+
+As the French would say: *ça ne s'invente pas* [fr] &ndash; *you can't make this shit up* [en].
