@@ -17,7 +17,7 @@ Of course, they *do* hate any sort of competition from other languages, especial
 >
 > &ndash; [France's L'Académie Française upset by rule to recognise regional tongues](http://www.telegraph.co.uk/news/worldnews/europe/france/2569651/Frances-LAcadmie-Franaise-upset-by-rule-to-recognise-regional-tongues.html)
 
-Considering the equivalently *babelist* [en](definition upcoming in a future post *ici-même* [fr]) proposal of subsidizing half-dead dialects by tax-money *perfusion* [fr], I daresay that *we have no dog in this fight* [en].
+Considering the equivalently *babelist* [en] (definition upcoming in a future post *ici-même* [fr]) proposal of subsidizing half-dead dialects by tax-money *perfusion* [fr], I daresay that *we have no dog in this fight* [en].
 
 ## The International Organisation of La Francophonie [en] (sic)
 
