@@ -7,6 +7,8 @@ It means, *a reheated soup is never good* [en], that is, you should not try to r
 
 Of course, for the same reasons, the Italians, God bless them, also gave us the beautiful *trombamici* [it] (*trombamico* [it], *trombamica* [it], *trombamici* [it], *trombamiche* [it]), which means, literally *fuck friends* [en], or, as I'd prefer in English, *sex buddies* [en].
 
+If you ever go to Italy, you should be able to get along just fine by approaching women with a simple *vorresti essere una delle mie trombamiche?* [it], *would you like to be one of my fuck friends?* [en].
+
 They even have the [Ten Golden Rules of the Perfect Fuck Friend](http://corrieredelsud.altervista.org/10-regole-doro-perfetto-trombamico-non-puoi-non-saperle/), and an explanatory table, included, I suppose, in every mid-school sex-ed textbook of Italy (click for hi-res version):
 
 [![trombamici - prospetto dei vantaggi](trombamici-vantaggi.jpg)](images/trombamici-vantaggi-large.jpg)
