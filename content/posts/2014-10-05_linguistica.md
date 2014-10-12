@@ -6,7 +6,11 @@ Lingüística
 Why the name? Because:
 
 * *lingüística* [es];
-* *linguistica* [la].
+* *linguistica* [la];
+* *linguistica* [it];
+* *linguística* [pt].
+
+And yes, I'm *partial* [en] to the Spanish word, because it has all those cool accents. And it's not even an [hyperforeignism](http://en.wikipedia.org/wiki/Hyperforeignism)!
 
 ## Format
 
