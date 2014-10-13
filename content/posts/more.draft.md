@@ -1,9 +1,5 @@
 
-English is better than French, because it has both the French meaning and another one
 
-
-frontier border frontiere[fr]
-stranger etranger[fr] foreigner
 
 saudade[pt]
 obrigado [pt], obrigada [pt]
@@ -12,7 +8,7 @@ libertarien[fr]
 liberal[en]
 politique[fr]
 
-
+my sinking heart [en]
 
 
 
