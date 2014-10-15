@@ -22,3 +22,5 @@ my sinking heart [en]
 
 let it slide [en]
 pretty steep [en]
+
+Spanish is the language of verbs, of verbs for everything, of rich conjugation, of beautiful tenses.
