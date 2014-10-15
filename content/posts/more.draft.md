@@ -1,9 +1,5 @@
 
-English is better than French, because it has both the French meaning and another one
 
-
-frontier border frontiere[fr]
-stranger etranger[fr] foreigner
 
 saudade[pt]
 obrigado [pt], obrigada [pt]
@@ -12,7 +8,9 @@ libertarien[fr]
 liberal[en]
 politique[fr]
 
+beat the odds [en]
 
+my sinking heart [en]
 
 
 
@@ -24,3 +22,5 @@ politique[fr]
 
 let it slide [en]
 pretty steep [en]
+
+Spanish is the language of verbs, of verbs for everything, of rich conjugation, of beautiful tenses.
