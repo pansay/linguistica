@@ -7,7 +7,7 @@ Well...
 
 On the other hand, that doesn't mean you should *tropezar dos veces con la misma piedra* [es].
 
-Also, beware of *calientapollas* [es], and try not to have to *casarse de penalty* [es]
+Also, beware of *calientapollas* [es] (*cocktease* [en]) and try not to have to *casarse de penalty* [es]
 
  shotgun wedding [en]
 http://en.wikipedia.org/wiki/Shotgun_wedding
