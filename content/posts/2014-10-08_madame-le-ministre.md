@@ -32,7 +32,7 @@ Anyway, back to grammar. A simple example of grammatical gender is the German *M
 A few all-too-quickly forgotten examples will make this a lot clearer:
 
 - *personne* [fr]: *person* [en], feminine word which can designate either male or female persons. When you need to talk about a male person, you write *cet homme est une personne sympathique* [fr].
-- *thon* [fr]: *fat woman* [en], pejorative word which is masculine but can designate only females. Thus, you write: *cette femme est un thon* [fr].
+- *thon* [fr]: *ugly fat woman* [en], pejorative word which is masculine but can designate only females. Thus, you write: *cette femme est un thon* [fr].
 - *recrue* [fr]: *recruit* [en], especially in the *male conscript* sense. Since conscription usually only applies to males (of course, [that kind of discrimination](http://thoughtcatalog.com/janet-bloomfield/2014/08/5-legal-rights-women-have-that-men-dont/) is much less worrisome than fake grammar issues), it's a feminine word used mostly to designate male persons. (You can't stop "social progress", though: Since the glorious "[historic day for equality](http://www.norway.org.uk/norwayandcountry/Current-Affairs/Norwegian-Politics/Norway-Extends-Compulsory-Military-Service-to-Women/)", Norwegian women are subject to military slavery as well.)
 - *star* [fr]: *star* [en], an anglicism, and it's feminine. Both males and females will thus write *je serai une star* [fr] (*I will be a star* [en]).
 - *[dupe](http://www.cnrtl.fr/lexicographie/dupe)* [fr]: to be the *dupe* [fr] of someone means having been a *naïve* [fr] person that got tricked by another person. It's masculine, and it can happen to both males and females.
