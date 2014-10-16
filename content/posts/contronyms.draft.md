@@ -11,3 +11,6 @@ http://www.cnrtl.fr/lexicographie/h%C3%B4te
 double meaning in latin *hospes* [la] already
 
 Du lat. class. hospes,-itis « celui qui offre l'hospitalité; celui qui la reçoit »
+
+http://www.cnrtl.fr/definition/abhorrer
+abhorrer // adorer
