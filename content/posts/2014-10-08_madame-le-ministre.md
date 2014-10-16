@@ -1,7 +1,7 @@
 Madame le Ministre
 ===
 
-On 2014-10-06 [ISO 8601], the French MP [en] Julien Aubert referred to the President of the French Parliament (*Assemblée nationale* [fr]) as *Madame le président* [fr]. The President, whose gender happens to be female, insisted for him to refer to her as *Madame la présidente*. He refused, and was [punished](http://www.lefigaro.fr/politique/le-scan/citations/2014/10/07/25002-20141007ARTFIG00046-madame-le-president-insiste-a-l-assemblee-un-depute-ump-il-est-sanctionne.php) by a *docking of pay* of a quarter of his monthly *indemnité parlementaire* [fr]. Previously, he had already committed the same sin by using *Madame le Ministre* [fr], and not *Madame la Ministre*, to address a female Minister.
+On 2014-10-06 [ISO 8601], the French MP [en] Julien Aubert referred to the President of the French Parliament (*Assemblée nationale* [fr]) as *Madame le président* [fr]. The President, whose gender happens to be female, insisted for him to refer to her as *Madame la présidente*. He refused, and was [punished](http://www.lefigaro.fr/politique/le-scan/citations/2014/10/07/25002-20141007ARTFIG00046-madame-le-president-insiste-a-l-assemblee-un-depute-ump-il-est-sanctionne.php) by a *docking of pay* [en] of a quarter of his monthly *indemnité parlementaire* [fr]. Previously, he had already committed the same sin by using *Madame le Ministre* [fr], and not *Madame la Ministre*, to address a female Minister.
 
 The case is fascinating because he, in effect, got "fined" for applying the correct rules of French grammar, as maintained by the Immortals:
 
