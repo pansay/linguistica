@@ -1,0 +1,2 @@
+unwelt,zeitgeist,weltanschauung,dasein
+dasein pobyt
