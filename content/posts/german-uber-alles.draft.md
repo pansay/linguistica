@@ -15,8 +15,10 @@ A language that has different good-byes:
 auf Wiederhören
 http://en.wiktionary.org/wiki/auf_Wiederh%C3%B6ren
 
-
 auf wiederschreiben
 
+you can even push the idea further, and if you happen to have some German *[trombamica](trombamici)* [it],
+
+and need to *despedirse* [es] (say good-bye), what more appropriate than a *auf wiederficken* [de] ?
 
 Spanish: hasta la vista... in French, mind using au revoir
