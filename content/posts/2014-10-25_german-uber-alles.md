@@ -1,7 +1,7 @@
 German über alles
 ===
 
-You can't mention German without a perfunctory [nazi reference](http://en.wikipedia.org/wiki/Deutschlandlied#Use_during_Nazi_rule). You can't think of German without remembering a language that symbolized foreign dominion over peoples under the Austro-Hungarian Empire, an official language of Switzerland pushed down the throats of its students of non-German-speaking regions as mandatory with dumb school textbooks, and massacred in its various Swiss German dialects.
+You can't mention German without a perfunctory [nazi reference](http://en.wikipedia.org/wiki/Deutschlandlied#Use_during_Nazi_rule). You can't think of German without remembering a language that symbolized foreign dominion over peoples under the Austro-Hungarian Empire, an official language of Switzerland pushed down the throats of its students of non-German-speaking regions as mandatory with dumb school textbooks, and massacred in its various Swiss German dialects. Or [weird porn scenes](https://www.youtube.com/watch?v=c2etyxr-BVs) (free word of the day: *Stromkasten* [de], electric box).
 
 Yet, dig deeper. Forget all that, ignore the [jealousy](http://9gag.com/gag/aBRqZ4x?ref=fb.s) of *vulgar* latin languages, unlearn the crap, and [start anew](http://inner-game.info/how-to-learn-languages/). You have to go beyond all that, and discover a beautiful, subtle, rich and intuitive language. 
 
@@ -12,11 +12,11 @@ The [language of philosophy](http://www.slate.fr/tribune/84783/la-traduction-ass
 - *Weltanschauung* [de] ... from which you draw your *world view*...
 - *Zeitgeist* [de] ... influenced of course by the *intellectual atmosphere* of your time.
 
-Of course, try not to live under either of these regimes:
+Of course, try not to live under either of these...
 
-- *[Zwangswirtschaft](http://mises.org/midroad/mr5.asp)* [de] economic system based on coercion;
-
+- *[Zwangswirtschaft](http://mises.org/midroad/mr5.asp)* [de] economic system based on coercion.
 - *Zwangsgesellschaft* [de] a society based on coercion.
+- *Zwangsheirat* [de] forced marriage.
 
 A language that has different good-byes depending on the means of communication:
 
