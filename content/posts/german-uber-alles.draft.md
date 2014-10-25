@@ -8,7 +8,7 @@ Yet, dig deeper. Forget all that, ignore the [jealousy](http://9gag.com/gag/aBRq
 unwelt,zeitgeist,weltanschauung,dasein
 dasein pobyt
 
-the language of philosophy, the language of new composite words.
+the [language of philosophy](http://www.slate.fr/tribune/84783/la-traduction-assassine-dheidegger), the language of [new composite words](http://www.telegraph.co.uk/news/worldnews/europe/germany/10095976/Germany-drops-its-longest-word-Rindfleischeti....html).
 
 A language that has different good-byes:
 
