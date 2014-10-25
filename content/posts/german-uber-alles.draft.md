@@ -3,7 +3,7 @@ German über alles
 
 You can't mention German without a perfunctory nazi reference, like the title above. You can't think of German without remembering a language pushed down the throats of generations of people under the  Austro-Hungarian Empire, an official language of Switzerland pushed to its students of non-German-speaking regions as mandatory with dumb school textbooks, and massacred in its various Swiss German dialects.
 
-Yet, dig deeper. Forget all that, unlearn the crap, and [start anew](learning-languages). You have to go beyond all that, and discover a beautiful, subtle, rich and intuitive language. A language that gave us such beautiful concepts as
+Yet, dig deeper. Forget all that, ignore the [jealousy](http://9gag.com/gag/aBRqZ4x?ref=fb.s) of *vulgar* latin languages, unlearn the crap, and [start anew](learning-languages). You have to go beyond all that, and discover a beautiful, subtle, rich and intuitive language. A language that gave us such beautiful concepts as
 
 unwelt,zeitgeist,weltanschauung,dasein
 dasein pobyt
