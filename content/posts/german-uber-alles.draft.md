@@ -21,5 +21,5 @@ you can even push the idea further, and if you happen to have some German *[trom
 
 and need to *despedirse* [es] (say good-bye), what more appropriate than a *auf wiederficken* [de] ?
 
-Spanish: hasta la vista (which has become quite ruined even in Spanish by its infamouse use in Terminator)... in French, mind using au revoir
+Spanish: hasta la vista (which has become quite ruined even in Spanish by its infamouse use by an actor with a German accent)... in French, mind using au revoir
 Hasta la oída ?
