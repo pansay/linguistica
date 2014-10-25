@@ -23,3 +23,10 @@ and need to *despedirse* [es] (say good-bye), what more appropriate than a *auf 
 
 Spanish: hasta la vista (which has become quite ruined even in Spanish by its infamouse use by an actor with a German accent)... in French, mind using au revoir
 Hasta la oída ?
+
+*[Zwangswirtschaft](http://mises.org/midroad/mr5.asp)* [de] economic system based on coercion
+
+*Zwangsgesellschaft* [de] a society based on coercion
+
+
+*ab und zu* [de] (*de vez en cuando* [es] ?)
