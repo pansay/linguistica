@@ -25,4 +25,4 @@ A language that has different good-byes depending on the means of communication:
 - *auf Wiederschreiben* [de] (*arrileggerci* [it])
 - you can even push the idea further, and if you happen to have some German *[trombamica](minestra-riscaldata-trombamici)* [it], and need to *despedirse* [es], what more appropriate than an *auf Wiederficken* [de]?
 
-And frankly, wouldn't the world be a better place if we adopted both the word Autohahn *and* its lack of legal speed limitation? Let's not pretend that a "highway" limited to 65 mph is the same concept as an Autobahn with no speed limit.
+And frankly, wouldn't the world be a better place if we adopted both the word *Autobahn* [de] *and* its lack of legal speed limitation? Let's not pretend that a "highway" limited to 65 mph is the same concept as an Autobahn with no speed limit.
