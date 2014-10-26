@@ -68,12 +68,16 @@ stranger étranger[fr] foreigner
 ## Abroad or "foreign countries"
 
 >-¿Dondé esta el extranjero?
+>
 >-El extranjero es un país muy grande.
 >
-> &ndash; *[Las malas intenciones](http://www.imdb.com/title/tt1696181/)*
+>&nbsp;
 >
 >-Where is abroad?
+>
 >-Abroad is a very big country.
+>
+> &ndash; *[Las malas intenciones](http://www.imdb.com/title/tt1696181/)*
 
 CZ: zahraničí [cs] http://cs.wikipedia.org/wiki/Zahrani%C4%8D%C3%AD , that which lies beyond the borders, http://cs.wiktionary.org/wiki/cizina that which is foreign
 
@@ -85,7 +89,7 @@ CZ: zahraničí [cs] http://cs.wikipedia.org/wiki/Zahrani%C4%8D%C3%AD , that whi
 >
 >That concept is made of brilliant bits sneaked, smuggled or floating in through the dense gray fog of the country’s physical and spiritual barbed-wire walls: in foreign movies, magazines, radio broadcasts, or even the clothing and the confident posture of foreign visitors. These bits are so un-Soviet and so alive that they blend in one’s mind into a vision of freedom, abundance, unimaginable technological efficacy, inconceivable achievements and, above all, a sense of joyous, fearless, benevolent gaiety. And if European countries, in this vision, are shining planets, America is the sun.
 >
-> &ndash; Ayn Rand, (The Return of the Primitive: The Anti-Industrial Revolution*
+> &ndash; Ayn Rand, *The Return of the Primitive: The Anti-Industrial Revolution*
 
 *Abroad* is a magic word:
 
