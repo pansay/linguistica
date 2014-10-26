@@ -1,5 +1,8 @@
+*заграница* [ru]
+
 English is better than French, because it has both the French meaning and another one
 
+Hello, stranger.
 stranger [en], inconnu [fr], inconnue [fr] ?
 
 
