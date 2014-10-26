@@ -1,7 +1,15 @@
 Abroad: the magic word
 ===
 
-Hello, stranger. The word *stranger* [en] has roots in old French, thus comes from the same Latin root (*extraneus* [la]) as *étranger* [fr], *straniero* [it], *extranjero* [es]. But since it has other meanings, if you wish to refer to *someone born in country A and living in country B*, you're more likely to use *foreigner* [en], *immigrant* [en], if you reside in country B, and *emigrant* [en], or *expatriate* [en] if you reside in country A.
+Hello, stranger.
+
+## Strangers or strange lands
+
+Heinlein - Stranger in a strange land (which gave us the beautiful word-concept *to grok* [en] : to drink, to understand completely)
+
+the premise of the book being very similar to that of the French Voltaire - *L'Ingénu* (see also his other classic *Candide* - the two words have the exact same meaning as *naïve*, a third French word to say the same!)
+
+The word *stranger* [en] has roots in old French, thus comes from the same Latin root (*extraneus* [la]) as *étranger* [fr], *straniero* [it], *extranjero* [es]. But since it has other meanings, if you wish to refer to *someone born in country A and living in country B*, you're more likely to use *foreigner* [en], *immigrant* [en], if you reside in country B, and *emigrant* [en], or *expatriate* [en] if you reside in country A.
 
 It all loses much of its relevance if you try to involve countries C and more, of course. In the age of globalization, it all loses much of its relevance: today, you can be born in one country, have the citizenship of a third, pay your groceries in the money of a fourth, sell services on-line paid in the currency of a fifth, and, ideally, pay your taxes in a tax haven sixth country. So who's a foreigner, and who isn't? And what's a foreign language? And what could "foreign country" possibly mean? Hey, Americans, do you know you live in a foreign country according to most of the world?
 
@@ -10,16 +18,31 @@ Answer: everyone is someone's foreigner, and [there are no foreign languages](ht
 It's like that old French hamster joke:
 
 >Un hamster stupide se balade au bord d'une rivière. Tout à coup, il aperçoit son copain le hamster crétin sur l'autre rive. Il veut le rejoindre et l'appelle&nbsp;:
->- Eh&nbsp;! Hamster crétin, comment t'as fait pour passer de l'autre côté de la rivière&nbsp;?
->- Mais, imbécile&nbsp;! T'es déjà de l'autre côté&nbsp;!
-
+>
+>-Eh&nbsp;! Hamster crétin, comment t'as fait pour passer de l'autre côté de la rivière&nbsp;?
+>
+>-Mais, imbécile&nbsp;! T'es déjà de l'autre côté&nbsp;!
+>
+>&nbsp;
+>
 >A stupid hamster is walking alongside a river. Suddenly, he notices his friend the moron hamster on the other bank of the river. He'd like to join him and so he calls out:
->- Hey, moron hamster! How did you manage to get on the other side of the river?
->- You idiot! You're already on the other side!
+>
+>-Hey, moron hamster! How did you manage to get on the other side of the river?
+>
+>-You idiot! You're already on the other side!
 
 But the word-concepts tell us a lot about the history of the movement of people.
 
 ## Immigrants or emigrants
+
+http://i100.independent.co.uk/article/how-times-have-changed-with-australias-immigration-policy--x1szcBmMIg
+
+Australia, ah the irony,
+https://en.wikipedia.org/wiki/Penal_transportation
+
+https://en.wikipedia.org/wiki/Deportation
+
+Notice also the once common practice of deporting nationals - now only "foreigners".
 
 http://en.wikipedia.org/wiki/Expatriate
 
@@ -40,19 +63,17 @@ http://en.wikipedia.org/wiki/%C3%89migr%C3%A9
 frontier border frontière[fr]
 stranger étranger[fr] foreigner
 
-Heinlein - Stranger in a strange land (which gave us the beautiful word-concept *to grok* [en] : to drink, to understand completely)
 
-the premise of the book being very similar to that of the French Voltaire - *L'Ingénu* (see also his other classic *Candide* - the two words have the exact same meaning as *naïve*, a third French word to say the same!)
 
 ## Abroad or "foreign countries"
 
->- ¿Dondé esta el extranjero?
->- El extranjero es un país muy grande.
+>-¿Dondé esta el extranjero?
+>-El extranjero es un país muy grande.
 >
 > &ndash; *[Las malas intenciones](http://www.imdb.com/title/tt1696181/)*
-
->- Where is abroad?
->- Abroad is a very big country.
+>
+>-Where is abroad?
+>-Abroad is a very big country.
 
 CZ: zahraničí [cs] http://cs.wikipedia.org/wiki/Zahrani%C4%8D%C3%AD , that which lies beyond the borders, http://cs.wiktionary.org/wiki/cizina that which is foreign
 
