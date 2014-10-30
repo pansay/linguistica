@@ -45,7 +45,7 @@ Therefore, the concern was over emigration, not immigration. Expatriation was so
 
 >III.− Emploi subst. Toutes les couches de la misère humaine, les expatriés, les excommuniés, les déshérités (Hugo, Corresp., 1856, p. 250).
 >
-> *[expatrié](http://www.cnrtl.fr/lexicographie/expatri%C3%A9)* [fr]
+> &ndash; *[expatrié](http://www.cnrtl.fr/lexicographie/expatri%C3%A9)* [fr]
 
 Today's meaning of *expatriate* [en], inasmuch as it is different from immigrant, usually comes down to either being pushed by a foreign company to move (thus the same notion of "unwilling" migration as *[émigré](http://en.wikipedia.org/wiki/%C3%89migr%C3%A9)* [fr]), or, conversely to [socio-economic factors](http://en.wikipedia.org/wiki/Expatriate), to distinguish the *glop* [fr] (French word used to criticize a too reductionist dichotomy, from comics character [Pifou](http://fr.wikipedia.org/wiki/Pifou) foreigners from the *not glop* [fr] foreigners):
 
@@ -65,9 +65,7 @@ Today's meaning of *expatriate* [en], inasmuch as it is different from immigrant
 >
 > &ndash; *[Las malas intenciones](http://www.imdb.com/title/tt1696181/)*
 
-CZ: zahraničí [cs] http://cs.wikipedia.org/wiki/Zahrani%C4%8D%C3%AD , that which lies beyond the borders, http://cs.wiktionary.org/wiki/cizina that which is foreign
-
-*заграница* [ru] ?
+As for the welcome emigrant and the unwelcome immigrant, the currently negative perception of "foreign countries" was once the positive perception of "abroad", especially in the prison-countries of Communist countries: in Czechoslovakia, *[zahraničí](http://cs.wikipedia.org/wiki/Zahrani%C4%8D%C3%AD)* [cs], that which lies beyond the borders, as opposed to *[cizina](http://cs.wiktionary.org/wiki/cizina)* [cs] that which is foreign. In Russian, *заграница* [ru], which is probably what Ayn Rand, who fled Soviet Russia, had in mind when writing about *abroad* [en]:
 
 >Consciously or not, in the mind of any rebel in Soviet Russia, particularly of the young, there is only one court of final appeal against the injustice, the brutality, the sadistic horror of the inhuman social system in which they are trapped: *abroad*.
 >
