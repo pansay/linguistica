@@ -1,17 +1,17 @@
 Abroad: the magic word
 ===
 
-Hello, stranger.
+Hello, stranger!
 
 ## Strangers or strange land?
 
 Robert A. Heinlein's *Stranger in a Strange Land*, besides giving us the beautiful word-concept *to grok* [en] : to understand and accept completely), also, in its very title, highlights the two aspects of a stranger: he's seen as strange, but he can also see the land he's in as strange. If you care to see things in a bright light, the stranger can help you put into perspective all that you consider as a given. His very existence proves that there are more than one language, more than one country, more than one culture, more than one "morality", etc.
 
-The premise of the book being very similar to that of the French Voltaire's *L'Ingénu* (see also his other great classic *Candide* - the two words have the exact same meaning as *naïve*, a third French word to say the same!)
+The premise of the book is actually identitcal to that of the French Voltaire's *L'Ingénu* (see also his other great classic *Candide* - the two words have the exact same meaning as *naïve*, a third French word to say the same!).
 
 The word *stranger* [en] has roots in old French, thus comes from the same Latin root (*extraneus* [la]) as *étranger* [fr], *straniero* [it], *extranjero* [es]. But since it has other meanings, if you wish to refer to *someone born in country A and living in country B*, you're more likely to use *foreigner* [en], *immigrant* [en], if you reside in country B, and *emigrant* [en], or *expatriate* [en] if you reside in country A.
 
-It all loses much of its relevance if you try to involve countries C and more, of course. In the age of globalization, it all loses much of its relevance: today, you can be born in one country, have the citizenship of a third, pay your groceries in the money of a fourth, sell services on-line paid in the currency of a fifth, and, ideally, pay your taxes in a tax haven sixth country. So who's a foreigner, and who isn't? And what's a foreign language? And what could "foreign country" possibly mean? Hey, Americans, do you know you live in a foreign country according to most of the world?
+It all loses much of its relevance if you try to involve countries C and more, of course. In the age of globalization, you can be born in one country, live in a second, have the citizenship of a third, pay your groceries in the money of a fourth, sell services on-line paid in the currency of a fifth, and, ideally, pay your taxes in a tax haven sixth country. So who's a foreigner, and who isn't? And what's a foreign language? And what could "foreign country" possibly mean? Hey, Americans and French people, do you know you live in a foreign country according to most of the world?
 
 Answer: everyone is someone's foreigner, and [there are no foreign languages](http://inner-game.info/how-to-learn-languages/).
 
@@ -31,7 +31,7 @@ It's like that old French hamster joke:
 >
 >-You idiot! You're already on the other side!
 
-But the word-concepts tell us a lot about the history of the movement of people.
+Nevertheless, but the word-concepts involved tell us a lot about the history of the movement of people.
 
 ## Immigrants or emigrants
 
