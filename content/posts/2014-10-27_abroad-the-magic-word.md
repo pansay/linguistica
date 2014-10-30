@@ -3,7 +3,7 @@ Abroad: the magic word
 
 Hello, stranger!
 
-## Strangers or strange land?
+## Strangers or strange land
 
 Robert A. Heinlein's *Stranger in a Strange Land*, besides giving us the beautiful word-concept *to grok* [en] : to understand and accept completely), also, in its very title, highlights the two aspects of a stranger: he's seen as strange, but he can also see the land he's in as strange. If you care to see things in a bright light, the stranger can help you put into perspective all that you consider as a given. His very existence proves that there are more than one language, more than one country, more than one culture, more than one "morality", etc.
 
@@ -39,7 +39,13 @@ Even a mere 100 years ago, migration was mostly free through most of the world. 
 
 [Australia, ah the irony](http://i100.independent.co.uk/article/how-times-have-changed-with-australias-immigration-policy--x1szcBmMIg).
 
-Notice also the once common practice of [deporting](https://en.wikipedia.org/wiki/Deportation) nationals - now only "foreigners". Notice that foreigners could once [hold political office](http://en.wikipedia.org/wiki/Jacques_Necker), play [important political roles](http://en.wikipedia.org/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette)
+Notice also the once common practice of [deporting](https://en.wikipedia.org/wiki/Deportation) nationals - now only "foreigners". Notice that foreigners could once [hold political office](http://en.wikipedia.org/wiki/Jacques_Necker), play [important political roles](http://en.wikipedia.org/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette). Hell, in general, resident alien suffrage was [legal in the US until 1928] (http://www.jstor.org/discover/10.2307/1946574?uid=3738016&uid=2&uid=4&sid=21104924647547).
+
+Therefore, the concern was over emigration, not immigration. Expatriation was something you were a victim of, not something you'd undertake on your own to the annoyment of the welcoming country:
+
+>III.− Emploi subst. Toutes les couches de la misère humaine, les expatriés, les excommuniés, les déshérités (Hugo, Corresp., 1856, p. 250).
+>
+>http://www.cnrtl.fr/lexicographie/expatri%C3%A9
 
 http://en.wikipedia.org/wiki/Expatriate
 
@@ -52,9 +58,7 @@ has moved to another country to earn more money might be labelled an
 émigré
 http://en.wikipedia.org/wiki/%C3%89migr%C3%A9
 
->III.− Emploi subst. Toutes les couches de la misère humaine, les expatriés, les excommuniés, les déshérités (Hugo, Corresp., 1856, p. 250).
->
->http://www.cnrtl.fr/lexicographie/expatri%C3%A9
+
 
  emigrant immigrant émigré stranger foreigner expat indigène
 frontier border frontière[fr]
