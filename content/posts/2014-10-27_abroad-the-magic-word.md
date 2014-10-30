@@ -1,7 +1,7 @@
 Abroad: the magic word
 ===
 
-Hello, stranger!
+Hello, stranger, and welcome to abroad.
 
 ## Strangers or strange land
 
