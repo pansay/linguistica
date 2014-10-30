@@ -47,13 +47,9 @@ Therefore, the concern was over emigration, not immigration. Expatriation was so
 >
 >http://www.cnrtl.fr/lexicographie/expatri%C3%A9
 
-http://en.wikipedia.org/wiki/Expatriate
+Today's meaning of *expatriate*, inasmuch as it is different from immigrant, usually comes down to either being pushed by a foreign company to move (thus the same notion of "unwilling" migration), or, conversely to [socio-economic factors](http://en.wikipedia.org/wiki/Expatriate), to distinguish the *glop* [fr] (French word used to criticize a too reductionist dichotomy, from comics character [Pifou](http://fr.wikipedia.org/wiki/Pifou) foreigners from the *not glop* [fr] foreigners):
 
- The differentiation found in common usage usually comes down to
-socio-economic factors, so skilled professionals working in another
-country are described as expatriates, whereas a manual labourer who
-has moved to another country to earn more money might be labelled an
-'immigrant'.
+>The differentiation found in common usage usually comes down to socio-economic factors, so skilled professionals working in another country are described as expatriates, whereas a manual labourer who has moved to another country to earn more money might be labelled an 'immigrant'.
 
 émigré
 http://en.wikipedia.org/wiki/%C3%89migr%C3%A9
@@ -63,8 +59,6 @@ http://en.wikipedia.org/wiki/%C3%89migr%C3%A9
  emigrant immigrant émigré stranger foreigner expat indigène
 frontier border frontière[fr]
 stranger étranger[fr] foreigner
-
-
 
 ## Abroad or "foreign countries"
 
