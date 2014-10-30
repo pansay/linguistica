@@ -35,11 +35,11 @@ Nevertheless, but the word-concepts involved tell us a lot about the history of 
 
 ## Immigrants or emigrants
 
-Even a mere 100 years ago, migration was mostly free through most of the world. Not only that, but immigation was even encouraged. Not only encouraged, but sometimes even coerced, through the *[penal transportation](https://en.wikipedia.org/wiki/Penal_transportation)* system.
+Even a mere 100 years ago, migration was mostly free through most of the world. Not only that, but immigation was even encouraged. The Statue of Liberty was completed in 1886. Not only encouraged, but sometimes even coerced, through the *[penal transportation](https://en.wikipedia.org/wiki/Penal_transportation)* system.
 
 [Australia, ah the irony](http://i100.independent.co.uk/article/how-times-have-changed-with-australias-immigration-policy--x1szcBmMIg).
 
-Notice also the once common practice of [deporting](https://en.wikipedia.org/wiki/Deportation) nationals - now only "foreigners".
+Notice also the once common practice of [deporting](https://en.wikipedia.org/wiki/Deportation) nationals - now only "foreigners". Notice that foreigners could once [hold political office](http://en.wikipedia.org/wiki/Jacques_Necker), play [important political roles](http://en.wikipedia.org/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette)
 
 http://en.wikipedia.org/wiki/Expatriate
 
