@@ -7,7 +7,7 @@ Hello, stranger.
 
 Robert A. Heinlein's *Stranger in a Strange Land*, besides giving us the beautiful word-concept *to grok* [en] : to understand and accept completely), also, in its very title, highlights the two aspects of a stranger: he's seen as strange, but he can also see the land he's in as strange. If you care to see things in a bright light, the stranger can help you put into perspective all that you consider as a given. His very existence proves that there are more than one language, more than one country, more than one culture, more than one "morality", etc.
 
-The premise of the book being very similar to that of the French Voltaire - *L'Ingénu* (see also his other classic *Candide* - the two words have the exact same meaning as *naïve*, a third French word to say the same!)
+The premise of the book being very similar to that of the French Voltaire's *L'Ingénu* (see also his other great classic *Candide* - the two words have the exact same meaning as *naïve*, a third French word to say the same!)
 
 The word *stranger* [en] has roots in old French, thus comes from the same Latin root (*extraneus* [la]) as *étranger* [fr], *straniero* [it], *extranjero* [es]. But since it has other meanings, if you wish to refer to *someone born in country A and living in country B*, you're more likely to use *foreigner* [en], *immigrant* [en], if you reside in country B, and *emigrant* [en], or *expatriate* [en] if you reside in country A.
 
