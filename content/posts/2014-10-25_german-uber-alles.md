@@ -21,7 +21,7 @@ Of course, try not to live under either of these...
 A language that has different good-byes depending on the means of communication:
 
 - *auf Wiedersehen* [de] (*au revoir* [fr], *arrivederci* [it], *hasta la vista* [es])
-- [auf Wiederhören](http://en.wiktionary.org/wiki/auf_Wiederh%C3%B6ren) [de] (*hasta la oída* [es], *arriascoltarci* [it])
+- [auf Wiederhören](http://en.wiktionary.org/wiki/auf_Wiederh%C3%B6ren) [de] (*hasta la oída* [es], *a risentirci* [it])
 - *auf Wiederschreiben* [de] (*arrileggerci* [it])
 - you can even push the idea further, and if you happen to have some German *[trombamica](minestra-riscaldata-trombamici)* [it], and need to *despedirse* [es], what more appropriate than an *auf Wiederficken* [de]?
 
