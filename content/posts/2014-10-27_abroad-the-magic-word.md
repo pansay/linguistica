@@ -9,7 +9,7 @@ Robert A. Heinlein's *Stranger in a Strange Land*, besides giving us the beautif
 
 The premise of the book is actually identitcal to that of the French Voltaire's *L'Ingénu* (see also his other great classic *Candide* - the two words have the exact same meaning as *naïve*, a third French word to say the same!).
 
-The word *stranger* [en] has roots in old French, thus comes from the same Latin root (*extraneus* [la]) as *étranger* [fr], *straniero* [it], *extranjero* [es]. But since it has other meanings, if you wish to refer to *someone born in country A and living in country B*, you're more likely to use *foreigner* [en], *immigrant* [en], if you reside in country B, and *emigrant* [en], or *expatriate* [en] if you reside in country A.
+The word *stranger* [en] has roots in old French, thus comes from the same Latin root (*extraneus* [la]) as *étranger* [fr], *straniero* [it], *extranjero* [es]. But since stranger has other meanings as well, if you wish to refer to *someone born in country A and living in country B*, you're more likely to use *foreigner* [en], *immigrant* [en], if you reside in country B, and *emigrant* [en], or *expatriate* [en] if you reside in country A. (Likewise, frontier border frontière[fr]
 
 It all loses much of its relevance if you try to involve countries C and more, of course. In the age of globalization, you can be born in one country, live in a second, have the citizenship of a third, pay your groceries in the money of a fourth, sell services on-line paid in the currency of a fifth, and, ideally, pay your taxes in a tax haven sixth country. So who's a foreigner, and who isn't? And what's a foreign language? And what could "foreign country" possibly mean? Hey, Americans and French people, do you know you live in a foreign country according to most of the world?
 
@@ -31,7 +31,7 @@ It's like that old French hamster joke:
 >
 >-You idiot! You're already on the other side!
 
-Nevertheless, but the word-concepts involved tell us a lot about the history of the movement of people.
+Nevertheless, the word-concepts involved tell us a lot about the history of the perception of the movement of people.
 
 ## Immigrants or emigrants
 
@@ -45,20 +45,11 @@ Therefore, the concern was over emigration, not immigration. Expatriation was so
 
 >III.− Emploi subst. Toutes les couches de la misère humaine, les expatriés, les excommuniés, les déshérités (Hugo, Corresp., 1856, p. 250).
 >
->http://www.cnrtl.fr/lexicographie/expatri%C3%A9
+> *[expatrié](http://www.cnrtl.fr/lexicographie/expatri%C3%A9)* [fr]
 
-Today's meaning of *expatriate*, inasmuch as it is different from immigrant, usually comes down to either being pushed by a foreign company to move (thus the same notion of "unwilling" migration), or, conversely to [socio-economic factors](http://en.wikipedia.org/wiki/Expatriate), to distinguish the *glop* [fr] (French word used to criticize a too reductionist dichotomy, from comics character [Pifou](http://fr.wikipedia.org/wiki/Pifou) foreigners from the *not glop* [fr] foreigners):
+Today's meaning of *expatriate* [en], inasmuch as it is different from immigrant, usually comes down to either being pushed by a foreign company to move (thus the same notion of "unwilling" migration as *[émigré](http://en.wikipedia.org/wiki/%C3%89migr%C3%A9)* [fr]), or, conversely to [socio-economic factors](http://en.wikipedia.org/wiki/Expatriate), to distinguish the *glop* [fr] (French word used to criticize a too reductionist dichotomy, from comics character [Pifou](http://fr.wikipedia.org/wiki/Pifou) foreigners from the *not glop* [fr] foreigners):
 
 >The differentiation found in common usage usually comes down to socio-economic factors, so skilled professionals working in another country are described as expatriates, whereas a manual labourer who has moved to another country to earn more money might be labelled an 'immigrant'.
-
-émigré
-http://en.wikipedia.org/wiki/%C3%89migr%C3%A9
-
-
-
- emigrant immigrant émigré stranger foreigner expat indigène
-frontier border frontière[fr]
-stranger étranger[fr] foreigner
 
 ## Abroad or "foreign countries"
 
