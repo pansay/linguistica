@@ -10,3 +10,6 @@ dmininutives... cf. Spanish -> peru
 On the other hand:
 
 libovolné [cs]
+
+otužování [cs] http://de.wikipedia.org/wiki/Abh%C3%A4rtung
+Abhärtung [de]
