@@ -5,3 +5,8 @@ http://nonsensopedia.wikia.com/wiki/S%C5%82ownik:Polsko-czechos%C5%82owacki
 Batman - netopýrek[cs]
 
 dmininutives... cf. Spanish -> peru
+
+
+On the other hand:
+
+libovolné [cs]
