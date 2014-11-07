@@ -13,3 +13,6 @@ libovolné [cs]
 
 otužování [cs] http://de.wikipedia.org/wiki/Abh%C3%A4rtung
 Abhärtung [de]
+
+Czech brougth us robot, in an 1920 play, which addresses all the questions raised by AI, 100 years before, say, [Automata](http://www.imdb.com/title/tt1971325/), and 100 times better.
+http://en.wikipedia.org/wiki/R.U.R.
