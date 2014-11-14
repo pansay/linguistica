@@ -19,4 +19,4 @@ http://en.wikipedia.org/wiki/R.U.R.
 
 oh and here's some Czech synonyms for *racaille* [fr]
 
-svoloč, chátra, sebranka, holota, lůza
+[svoloč](http://www.blisty.cz/art/19437.html), chátra, sebranka, holota, lůza
