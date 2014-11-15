@@ -1,19 +1,19 @@
 Abroad: the magic word
 ===
 
-Hello, stranger, and welcome to abroad.
+Hello, stranger, and welcome abroad.
 
 ## Strangers or strange land
 
-Robert A. Heinlein's *Stranger in a Strange Land*, besides giving us the beautiful word-concept *to grok* [en] : to understand and accept completely), also, in its very title, highlights the two aspects of a stranger: he's seen as strange, but he can also see the land he's in as strange. If you care to see things in a bright light, the stranger can help you put into perspective all that you consider as a given. His very existence proves that there are more than one language, more than one country, more than one culture, more than one "morality", etc.
+Robert A. Heinlein's *Stranger in a Strange Land*, besides having brough us the beautiful word-concept *to grok* [en] (to understand and accept completely), also, in its very title, highlights the two aspects of a stranger: he's seen as strange, but he can also see the land he's in as strange. If you care to see things in a bright light, the stranger can help you put into perspective all that you consider as a given, by seeing as strange what you see as normal, whereas you see as strange what he considers normal. His very existence proves that there are more than one language, more than one country, more than one culture, more than one "morality", etc., and thus forces you to acknowldege the non-absolute nature of your point of view.
 
-The premise of the book is actually identitcal to that of the French Voltaire's *L'Ingénu* (see also his other great classic *Candide* - the two words have the exact same meaning as *naïve*, a third French word to say the same!).
+The premise of the book is actually identitcal to that of  Voltaire's *L'Ingénu* (see also his other great classic *Candide*: the two words have the exact same meaning as *naïve* [fr] - yet another French word!).
 
-The word *stranger* [en] has roots in old French, thus comes from the same Latin root (*extraneus* [la]) as *étranger* [fr], *straniero* [it], *extranjero* [es]. But since stranger has other meanings as well, if you wish to refer to *someone born in country A and living in country B*, you're more likely to use *foreigner* [en], *immigrant* [en], if you reside in country B, and *emigrant* [en], or *expatriate* [en] if you reside in country A. (Likewise, English has both *border* and *frontier* [en] (from French *frontière* [fr]), but *frontier* also has the beautiful meaning of *limit of current knowledge that we wish to overcome*.)
+The word *stranger* [en] has roots in old French, thus comes from the same Latin root (*extraneus* [la]) as *étranger* [fr], *straniero* [it], *extranjero* [es]. But since stranger has other meanings as well, if you wish to refer to *someone born in country A and living in country B*, you're more likely to use *foreigner* [en], *immigrant* [en], if you reside in country B, and *emigrant* [en], or *expatriate* [en] if you reside in country A. (Likewise, English has both *border* and *frontier* [en] (from French *frontière* [fr]), but *frontier* also has the beautiful meaning of *limit of current knowledge, science or exploration that we can overcome*.)
 
 It all loses much of its relevance if you try to involve countries C and more, of course. In the age of globalization, you can be born in one country, live in a second, have the citizenship of a third, pay your groceries in the money of a fourth, sell services on-line paid in the currency of a fifth, and, ideally, pay your taxes in a tax haven sixth country. So who's a foreigner, and who isn't? And what's a foreign language? And what could "foreign country" possibly mean? Hey, Americans and French people, do you know you live in a foreign country according to most of the world?
 
-Answer: everyone is someone's foreigner, and [there are no foreign languages](http://inner-game.info/how-to-learn-languages/).
+Answer: everyone is someone's foreigner (likewise: *on est toujours l'imbécile de quelqu'un* [fr], everyone is someone's idiot) and [there are no foreign languages](http://inner-game.info/how-to-learn-languages/).
 
 It's like that old French hamster joke:
 
@@ -35,19 +35,19 @@ Nevertheless, the word-concepts involved tell us a lot about the history of the 
 
 ## Immigrants or emigrants
 
-Even a mere 100 years ago, migration was mostly free through most of the world. Not only that, but immigation was even encouraged. The Statue of Liberty was completed in 1886. Not only encouraged, but sometimes even coerced, through the *[penal transportation](https://en.wikipedia.org/wiki/Penal_transportation)* system.
+Even a mere 100 years ago, migration was mostly free throughout most of the world. Not only that, but immigation was even encouraged and welcomed: the Statue of Liberty was completed in 1886. And not only encouraged, but sometimes even coerced, through the *[penal transportation](https://en.wikipedia.org/wiki/Penal_transportation)* system.
 
 [Australia, ah the irony](http://i100.independent.co.uk/article/how-times-have-changed-with-australias-immigration-policy--x1szcBmMIg).
 
-Notice also the once common practice of [deporting](https://en.wikipedia.org/wiki/Deportation) nationals - now only "foreigners". Notice that foreigners could once [hold political office](http://en.wikipedia.org/wiki/Jacques_Necker), play [important political roles](http://en.wikipedia.org/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette). Hell, in general, resident alien suffrage was [legal in the US until 1928] (http://www.jstor.org/discover/10.2307/1946574?uid=3738016&uid=2&uid=4&sid=21104924647547).
+Notice also the once common practice of [deporting](https://en.wikipedia.org/wiki/Deportation) nationals - now only "foreigners". Notice that foreigners could once [hold political office](http://en.wikipedia.org/wiki/Jacques_Necker), play [important political roles](http://en.wikipedia.org/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette). Hell, in general, resident alien suffrage was [legal in the US until 1928](http://www.jstor.org/discover/10.2307/1946574?uid=3738016&uid=2&uid=4&sid=21104924647547).
 
-Therefore, the concern was over emigration, not immigration. Expatriation was something you were a victim of, not something you'd undertake on your own to the annoyment of the welcoming country:
+Therefore, the concern was over emigration, not immigration. Expatriation was something you were a victim of, not something you'd undertake on your own (to the possible annoyment of the inhabitants of the (un)welcoming country):
 
 >III.− Emploi subst. Toutes les couches de la misère humaine, les expatriés, les excommuniés, les déshérités (Hugo, Corresp., 1856, p. 250).
 >
 > &ndash; *[expatrié](http://www.cnrtl.fr/lexicographie/expatri%C3%A9)* [fr]
 
-Today's meaning of *expatriate* [en], inasmuch as it is different from immigrant, usually comes down to either being pushed by a foreign company to move (thus the same notion of "unwilling" migration as *[émigré](http://en.wikipedia.org/wiki/%C3%89migr%C3%A9)* [fr]), or, conversely to [socio-economic factors](http://en.wikipedia.org/wiki/Expatriate), to distinguish the *glop* [fr] (French word used to criticize a too reductionist dichotomy, from comics character [Pifou](http://fr.wikipedia.org/wiki/Pifou) foreigners from the *not glop* [fr] foreigners):
+Today's meaning of *expatriate* [en], inasmuch as it is different from immigrant, usually comes down to either being pushed by a foreign company to move (thus the same notion of "unwilling" migration as *[émigré](http://en.wikipedia.org/wiki/%C3%89migr%C3%A9)* [fr]), or, conversely to [socio-economic factors](http://en.wikipedia.org/wiki/Expatriate), to distinguish the *glop* [fr] foreigners from the not *glop* [fr] (better yet: *unglop*) foreigners (glop and unglop are used to deride a too reductionist dichotomy, from French comics character [Pifou](http://fr.wikipedia.org/wiki/Pifou), who knew no other word-concepts but these two):
 
 >The differentiation found in common usage usually comes down to socio-economic factors, so skilled professionals working in another country are described as expatriates, whereas a manual labourer who has moved to another country to earn more money might be labelled an 'immigrant'.
 
@@ -65,7 +65,7 @@ Today's meaning of *expatriate* [en], inasmuch as it is different from immigrant
 >
 > &ndash; *[Las malas intenciones](http://www.imdb.com/title/tt1696181/)*
 
-As for the welcome emigrant and the unwelcome immigrant, the currently negative perception of "foreign countries" was once the positive perception of "abroad", especially in the prison-countries of Communist countries: in Czechoslovakia, *[zahraničí](http://cs.wikipedia.org/wiki/Zahrani%C4%8D%C3%AD)* [cs], that which lies beyond the borders, as opposed to *[cizina](http://cs.wiktionary.org/wiki/cizina)* [cs] that which is foreign. In Russian, *заграница* [ru], which is probably what Ayn Rand, who fled Soviet Russia, had in mind when writing about *abroad* [en]:
+Similar to the welcome emigrant and the unwelcome immigrant, the currently negative perception of "foreign countries" was once the positive perception of "abroad", especially in the prison-countries of Communist regimes: in Czechoslovakia, *[zahraničí](http://cs.wikipedia.org/wiki/Zahrani%C4%8D%C3%AD)* [cs], that which lies beyond the borders, as opposed to *[cizina](http://cs.wiktionary.org/wiki/cizina)* [cs] that which is foreign. In Russian, *заграница* [ru], which is probably what Ayn Rand, who fled Soviet Russia, had in mind when writing about *abroad* [en]:
 
 >Consciously or not, in the mind of any rebel in Soviet Russia, particularly of the young, there is only one court of final appeal against the injustice, the brutality, the sadistic horror of the inhuman social system in which they are trapped: *abroad*.
 >
@@ -75,7 +75,7 @@ As for the welcome emigrant and the unwelcome immigrant, the currently negative 
 >
 > &ndash; Ayn Rand, *The Return of the Primitive: The Anti-Industrial Revolution*
 
-*Abroad* is a magic word:
+Indeed, she described the word-concept *abroad* as a magic one:
 
 >All heads bent over the table, over a tiny, round, orange and gold box. Vava whispered the magic words: “From *abroad*.”
 >
