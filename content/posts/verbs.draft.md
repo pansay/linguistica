@@ -5,7 +5,10 @@ stimmen [de] to be true
 
 soler [es] to usually do
 
-stonat [cs] to be sick
+stonat [cs] to be sick (active)
+ochořet [cs] to get sick (passive)
+enfermarse [es] 
+ammalarsi [it]
 
 stydet se [cs] to be ashamed... How do you use the imperative with "to be ashamed"? "Be ashamed!"? Bah, no good.
 
