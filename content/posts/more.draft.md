@@ -24,3 +24,10 @@ let it slide [en]
 pretty steep [en]
 
 Spanish is the language of verbs, of verbs for everything, of rich conjugation, of beautiful tenses.
+
+
+Portuguese as the language of emotions
+
+http://thoughtcatalog.com/alex-brueckner/2014/02/13-untranslatable-words-that-have-to-do-with-love/
+
+bezohledne [cs]
