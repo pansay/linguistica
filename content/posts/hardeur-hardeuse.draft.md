@@ -11,3 +11,8 @@ http://fare.livejournal.com/87966.html
 
 
 ardeur
+
+
+http://fr.wikipedia.org/wiki/Sexualit%C3%A9_vanille
+
+http://www.catb.org/jargon/html/V/vanilla.html
