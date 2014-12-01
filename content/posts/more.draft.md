@@ -2,6 +2,9 @@
 
 
 saudade[pt]
+Sehnsucht [de]
+http://en.wikipedia.org/wiki/Sehnsucht
+
 obrigado [pt], obrigada [pt]
 
 libertarien[fr]
