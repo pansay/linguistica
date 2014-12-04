@@ -29,4 +29,7 @@ https://translate.google.com/#cs/fr/rozkr%C3%A1st%2C%20vykr%C3%A1st%2C%20okr%C3%
 rob [en], same etymology as dérober [fr]
 http://www.etymonline.com/index.php?term=rob
 
+promlčet [cs]
+
+
 
