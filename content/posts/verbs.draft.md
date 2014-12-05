@@ -31,5 +31,14 @@ http://www.etymonline.com/index.php?term=rob
 
 promlčet [cs]
 
+to double [en], to double-date [en]
+
+>KRAMER: Ha ha ha ha. Yeah, well, I’ll tell you, she's a full-figured gal.
+>
+>JERRY: Is she?
+>
+>KRAMER: Oh you better believe it buddy. Hey George, we could double sometime.
+>
+> &ndash; Seinfeld
 
 
