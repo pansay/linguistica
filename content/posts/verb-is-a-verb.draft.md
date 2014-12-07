@@ -1,4 +1,4 @@
-Verbs
+Verb is a verb
 ===
 
 stimmen [de] to be true
