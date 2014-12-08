@@ -9,6 +9,7 @@ stonat [cs] to be sick (active)
 ochořet [cs] to get sick (passive)
 enfermarse [es] 
 ammalarsi [it]
+sich enkranken [de]
 
 stydet se [cs] to be ashamed... How do you use the imperative with "to be ashamed"? "Be ashamed!"? Bah, no good.
 
