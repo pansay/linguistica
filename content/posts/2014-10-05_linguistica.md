@@ -30,4 +30,4 @@ The usual format will most likely be akin to a "word of the day" style daily pos
 
 ## Links
 
-The modern linguist's best friend: [Google Translate](http://translate.google.com/]).
+The modern linguist's best friend: [Google Translate](http://translate.google.com/).
