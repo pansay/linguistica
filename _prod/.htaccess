@@ -3,7 +3,7 @@ Options +FollowSymlinks
 php_flag magic_quotes_gpc Off
 SetEnvIfNoCase Content-Type "^multipart/form-data;" "MODSEC_NOPOSTBUFFERING=Do not buffer file uploads"
 
-Header set X-UA-Compatible "IE=Edge,chrome=1"
+Header set X-UA-Compatible "IE=Edge"
 
 RewriteCond %{HTTP_HOST} !(linguistica.rocks|localhost)
 RewriteRule (.*) http://linguistica.rocks/$1 [R=301,L]
