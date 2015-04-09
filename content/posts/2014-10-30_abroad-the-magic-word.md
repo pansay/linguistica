@@ -90,5 +90,7 @@ Notice also that the very concept of "border" is contextual to a world where sta
 The concept thus gave birth to a whole range of related concept depending upon it, such as:
 
 * *douanier* [fr], a person whose [job](http://fr.liberpedia.org/Douanier) is to watch the border;
-* *[Republikflucht](http://en.wikipedia.org/wiki/Republikflucht)* [de], the act of illegally crossing the border out to a better country
-* *illegal immigration* [en], the act of illegally crossing the border into a better country.
+* *[Republikflucht](http://en.wikipedia.org/wiki/Republikflucht)* [de], the act of illegally crossing the border *out* to a better country
+* *illegal immigration* [en], the act of illegally crossing the border *into* a better country.
+* *[salzétrangers](http://fr.liberpedia.org/Salz%C3%A9trangers)* [fr], the "dirty foreigners", whether living in country B, or coming from country B to country A where they are welcomed by some and despised by others.
+* *alien* [en], a person from country A living in country B without the authorization of country B's *Gewaltmonopol* [de].
