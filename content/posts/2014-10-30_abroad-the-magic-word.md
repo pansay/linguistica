@@ -13,7 +13,7 @@ The word *stranger* [en] has roots in old French, thus comes from the same Latin
 
 It all loses much of its relevance if you try to involve countries C and more, of course. In the age of globalization, you can be born in one country, live in a second, have the citizenship of a third, pay your groceries in the money of a fourth, sell services on-line paid in the currency of a fifth, and, ideally, pay your taxes in a tax haven sixth country. So who's a foreigner, and who isn't? And what's a foreign language? And what could "foreign country" possibly mean? Hey, Americans and French people, do you know you live in a foreign country according to most of the world?
 
-Answer: everyone is someone's foreigner (likewise: *on est toujours l'imbécile de quelqu'un* [fr], everyone is someone's idiot) and [there are no foreign languages](http://inner-game.info/how-to-learn-languages/).
+Answer: everyone is someone's foreigner (likewise: *on est toujours l'imbécile de quelqu'un* [fr], everyone is someone's idiot) and [there are no foreign languages](how-to-learn-languages).
 
 It's like that old French hamster joke:
 
