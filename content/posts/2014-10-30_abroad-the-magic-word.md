@@ -94,3 +94,12 @@ The concept thus gave birth to a whole range of related concept depending upon i
 * *illegal immigration* [en], the act of illegally crossing the border *into* a better country.
 * *[salzétrangers](http://fr.liberpedia.org/Salz%C3%A9trangers)* [fr], the "dirty foreigners", whether living in country B, or coming from country B to country A where they are welcomed by some and despised by others.
 * *alien* [en], a person from country A living in country B with the authorization of country B's *Gewaltmonopol*  [de] (*legal alien* [en]) or without (*illegal alien* [en]).
+* 
+
+So of course, is it a coincidence, then, since the very concept of border depends on monopolies of *violence*, that the meaning of the words derived from it will also shift, depending on *how that violence is directed*?
+
+"Emigration" was relevant because the Gewaltsmonopolen of that time chose to exert so much violence against "their citizens" (or their belongings or activities, causing economic impoverishment) that those citizens massively wished to leave, and then to exert even more violence against those who tried.
+
+"Immigration" became relevant when some Gewaltsmonopolen, again, chose to exert so much violence against "their citizens" (or their belongings or activities, causing economic impoverishment) that those citizens massively wished to leave. The main difference being that this time the "welcoming countries"'s Gewaltsmonopolen chose to exert their violence against the current residents, in order to divert their money towards the residents-to-be. As violence begets violence, this of course causes hatred and rejection of the current residents against the "immigrants", thus, again, tainting the concept.
+
+So yes, in a free world, where no violence was ever *legal*, none of the word-concepts described above would exist, except in historical discussion.
