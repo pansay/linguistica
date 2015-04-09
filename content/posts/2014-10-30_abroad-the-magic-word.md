@@ -82,3 +82,13 @@ Indeed, she described the word-concept *abroad* as a magic one:
 >They looked at it reverently, afraid to touch it. Vava whispered proudly, breathlessly, trying to sound casual: “Face powder. French. Real French. It’s smuggled from Riga. One of Father’s patients gave it to him—in part payment.”
 >
 > &ndash; Ayn Rand, *We the Living*
+
+## Border crossing
+
+Notice also that the very concept of "border" is contextual to a world where states, *i.e.* [la] *monopolies of violence* (*[Gewaltmonopolen](http://de.wikipedia.org/wiki/Gewaltmonopol_des_Staates)* [de] in Weber's German), have divided among themselves the World.
+
+The concept thus gave birth to a whole range of related concept depending upon it, such as:
+
+* *douanier* [fr], a person whose [job](http://fr.liberpedia.org/Douanier) is to watch the border;
+* *[Republikflucht](http://en.wikipedia.org/wiki/Republikflucht)* [de], the act of illegally crossing the border out to a better country
+* *illegal immigration* [en], the act of illegally crossing the border into a better country.
