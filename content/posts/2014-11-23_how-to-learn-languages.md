@@ -35,9 +35,9 @@ How to learn languages in three easy steps
     >
     > &ndash; Isaac Asimov
 
-    It's quite simply when you think of it. Which language do you speak best? Your mother tongue. How did you learn it, through grammar books? No: through immersion and contextual deduction. It's a mystery to me how people assume you should learn all subsequent languages in any other ways.
+    It's quite simple when you think of it. Which language do you speak best? Your mother tongue. How did you learn it, through grammar books? No: through immersion and contextual deduction. It's a mystery to me why anyone would assume you should learn all subsequent languages in any other way.
 
-    You learn your first language by being immersed in a cultural context, surrounded by the language and people speaking it. Then, your brain uses contextual deduction to guess meanings of words you don't know yet from context and add them to your expanding inner words-concepts dictionary.
+    You learn your first language by being immersed in a cultural context, surrounded by the language and people speaking it. Then, your brain uses contextual deduction to guess meanings of words you don't know yet from context and add them to your mind's ever-expanding "concepts <-> lexicalized concepts" dictionary.
 
     Cultural context is the people you talk to, the movies you watch, the games you play, the books you read, the music you listen to, the language you take notes in.
 
