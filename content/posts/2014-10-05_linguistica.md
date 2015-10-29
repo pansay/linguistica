@@ -6,15 +6,16 @@ Lingüística
 Why lingüística? Because:
 
 * *lingüística* [es];
+* *lingüística* [ca];
+* *linguística* [pt].
 * *linguistica* [la];
 * *linguistica* [it];
-* *linguística* [pt].
 
-And yes, I'm *partial* [en] to the Spanish word, because it has all those cool accents. And it's not even an [hyperforeignism](http://en.wikipedia.org/wiki/Hyperforeignism)!
+And yes, I'm *partial* [en] to the Spanish and Catalan word, because it has all those cool accents. And it's not even an [hyperforeignism](http://en.wikipedia.org/wiki/Hyperforeignism)!
 
 Why "rocks"?
 
-Because learning language is as good as sex, [so says the science](http://rt.com/news/199416-brain-sex-chocolate-language/)!
+Because learning languages is as good as sex, [so says the science](http://rt.com/news/199416-brain-sex-chocolate-language/)!
 
 ## Format
 
