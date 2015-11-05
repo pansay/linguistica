@@ -37,3 +37,7 @@ bezohledne [cs]
 
 
 überhaupt, Irgendwann ? někdy [cs] ?
+
+extraño, forastero, extranjero
+
+fiscalizar cf. erarni
