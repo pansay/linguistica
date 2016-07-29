@@ -45,7 +45,7 @@ How to learn languages in three easy steps
 
     The second is the linguistic immersion you get when moving to another country, whatever the length of time.  The only challenge there (failed by most people) is to stick to this frame, and not revert to some other language whenever you can.
 
-    The third option is the cultural immersion you can achieve from home, through books, music, movies, and computer games. Watch a movie, read a book. Think of something you want to say in the language. Lookup phrases whenever you think of something to say and don't know it yet. You'll find out quickly that whole conjugation tables are usually irrelevant. Think of a few common sentences you'll likely to say, then checkout out only those. You'll find out what you really need is first and second person, of the most essential verbs: to be, to go, to want.
+    The third option is the cultural immersion you can achieve from home, through books, music, movies, and computer games. Watch a movie, read a book. Think of something you want to say in the language. Lookup phrases whenever you think of something to say and don't know it yet. You'll find out quickly that whole conjugation tables are usually irrelevant. Think of a few common sentences you'll likely to say, then check out only those. You'll find out what you really need is first and second person, of the most essential verbs: to be, to go, to want.
 
     To get a kick start, a good method is audio programs. Many podcasts are available for free. This should help you get quickly to The Sweet Spot. This is the first practical phase of the learning.
 
