@@ -1,7 +1,7 @@
 Wishing to learn vs wishing to know
 ===
 
-There are two reasons for studying something, be it a [language](learning-languages), a technology, a degree, whatever.
+There are two reasons for studying something, be it a [language](how-to-learn-languages), a technology, a degree, whatever.
 
 Wishing to learn and wishing to know.
 
