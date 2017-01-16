@@ -31,6 +31,21 @@ It's like that old French hamster joke:
 >
 >-You idiot! You're already on the other side!
 
+Or this Russian anecdote (a Russian Jew is interrogated by the KGB):
+
+> — Родственники за границей есть?
+> — Нет...
+> — А здесь написано, что у Вас брат, сестра, родители и дядя в Израиле...
+> - Так они — на родине, это я — за границей.
+
+>
+>&nbsp;
+>
+> - Do you have relatives abroad?
+> - Nope.
+> - But it says here that your whole family is in Israel?
+> - Ah yes, but they're the ones who're home -- I'm the one who's abroad!
+
 Nevertheless, the word-concepts involved tell us a lot about the history of the perception of the movement of people.
 
 ## Immigrants or emigrants
