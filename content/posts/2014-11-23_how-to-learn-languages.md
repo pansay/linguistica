@@ -45,7 +45,7 @@ How to learn languages in three easy steps
 
     The second is the linguistic immersion you get when moving to another country, whatever the length of time.  The only challenge there (failed by most people) is to stick to this frame, and not revert to some other language whenever you can.
 
-    The third option is the cultural immersion you can achieve from home, through books, music, movies, and computer games. Watch a movie, read a book. Think of something you want to say in the language. Lookup phrases whenever you think of something to say and don't know it yet. You'll find out quickly that whole conjugation tables are usually irrelevant. Think of a few common sentences you'll likely to say, then check out only those. You'll find out what you really need is first and second person, of the most essential verbs: to be, to go, to want.
+    The third option is the cultural immersion you can achieve from home, through books, music, movies, and computer games. Watch a movie, read a book. Think of something you want to say in the language. Lookup phrases whenever you think of something to say and don't know it yet. You'll find out quickly that whole conjugation tables are usually irrelevant. Think of a few common sentences you're likely to say, then check out only those. You'll find out what you really need is first and second person, of the most essential verbs: to be, to go, to want.
 
     To get a kick start, a good method is audio programs. Many podcasts are available for free. This should help you get quickly to The Sweet Spot. This is the first practical phase of the learning.
 
@@ -54,3 +54,11 @@ How to learn languages in three easy steps
     You should enjoy both of these practical steps. The first is the curiosity of sheer discovery. The second is the pride of not needing any learning-oriented material at all, and yet more discovery, combined with making sense of everything, filling the dots, and solidifying all that you already know. These two phases partially overlap and strengthen each other. If you get bored with phase one, phase two should get you motivated. If you get demotivated by phase two because you don't know enough yet to connect enough, phase one should get you in shape.
 
     Enjoy the process, enjoy the journey.
+    
+    ## Addenda
+
+1. ### I found out afterwars that the great RAW said pretty much the same thing, [in different words](https://selfdefinition.org/science/Robert-Anton-Wilson-Prometheus-Rising.pdf):
+
+    > The human brain is capable of mastering any symbol-system if sufficiently motivated. Some people can even play Beethoven's late piano music, although to me this is as "miraculous" as any feat alleged by psychic researchers; people can learn French, Hindustani, differential calculus, Swahili, etc. ad. infinitum—if motivated. When the first circuit security needs have been reimprinted and secondcircuit ego-needs have been hooked to mastering a new semantic reality-tunnel, that tunnel will be imprinted.
+
+2. ### Regarding the vocabulary needed to get you into The Sweet Spot, 1000 well-chosen words [should be more than enough](https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list).
