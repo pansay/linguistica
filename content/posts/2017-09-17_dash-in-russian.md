@@ -15,9 +15,9 @@ The order is signed by Николай Иванович Ежов, the chief of th
 
 Лагеря is the plural of Лагер, which is literally the German word *Lager* [de], as in *Konzentrationslager* [de].
 
-NKVD's camps: the concentration camps administered by the NKVD, Stalin's political police, to which *troikas* (a group of three people) could send anyone they wanted. The term Gulag is a semi-acronym, ГУЛаг, in which Лаг is short for Lager: it means simply the General Administration of the Lagers -- of the concentration camps.
+NKVD's camps: the concentration camps administered by the NKVD, Stalin's political police, to which *troikas* (a group of three people) could send anyone they wanted. The term Gulag is a semi-acronym, *ГУЛаг*, in which *Лаг* is short for *Lager*: it means simply the General Administration of the Lagers -- of the concentration camps.
 
-The Czechs, who suffered both Russian and German versions of socialist totalitarianism, also call those camps *lágr* [cs], directly borrowed from German, and use the term to refer to *both versions of the totalitarian camps*. In some cases, the very same camps, well placed close to uranium mines, switched directly from the National Socialist to the Socialist regime.
+The Czechs, who suffered both [German](http://www.blesk.cz/clanek/zpravy-udalosti/314998/koncentracni-tabory-na-uzemi-ceskoslovenska-vezni-umirali-v-52-lagrech.html) and [Russian](https://www.respekt.cz/fokus/jak-ucit-o-komunistickych-lagrech-a-normalizaci) flavors of socialist totalitarianism, also refer to those camps as *[lágr](https://fr.wiktionary.org/wiki/l%C3%A1gr#Tch.C3.A8que)* [cs], directly borrowed from German, and use the term to refer to *both versions of the totalitarian camps*. In some cases, the very same camps, well placed close to uranium mines, switched directly from the National Socialist to the Socialist regime. The term can also [be applied to North Korea's current concentration camps](https://www.novinky.cz/zahranicni/svet/431941-hlad-muceni-a-16hodinova-pracovni-doba-v-lagrech-kldr-je-vezneno-na-120-tisic-lidi.html).
 
 So the last line is the camps itself, hence the dash: even among the *zek* population, there were still death quotas to be met.
 
@@ -36,9 +36,7 @@ The Czech translation of the same passage is also interesting:
 > Pochopili jsme to proto, že jsme sami patřili k oněm přítomným, k onomu mohutnému, na celé zeměkouli ojedinělému kmeni zeků neboli muklů, kteří jedině byli s to s chutí pozřít mloka.
 >Kolyma byla největší a nejproslulejší ostrov, pól krutosti oné podivné země Gulag, roztříštěné svou geografií na souostroví, avšak stmelené svou psychologií v kontinent, oné skoro neviditelné a nehmatatelné země, jež byla zalidněna národem zeků.
 
+It introduces an alternate term for *zek*, *[mukl](https://cs.wikipedia.org/wiki/Mukl)*, which is a reverse acronym for *muž určený k likvidaci* [cs] (man destined for liquidation), and was widely used in relation to the Czechoslovak version of the concentration camps, the [TNP](https://cs.wikipedia.org/wiki/T%C3%A1bor_nucen%C3%A9_pr%C3%A1ce)s
+.
 
-How did you immigrate into this particular country? Well, as Солженицын says, the fastest way was through *арест* [ru] -- arrest in English, same Old French etymology through German. But how to get arrested? Well, you had to become a...
-
-hostis publicus 
-
-But the *lettres de noblesse* [fr] were given to the term through Robespierre as "ennemi du peuple" [fr]
+How did you immigrate into this particular country? Well, as Солженицын says, the fastest way was through *арест* [ru] -- arrest in English, same Old French etymology through German. But how to get arrested? Well, you had to become an enemy of the people (враг народа), ideally an enemy of the workers ([враг трудящихся](https://ru.wikipedia.org/wiki/58-%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F)). The concept dates back all the way to the Roman republic (*hostis publicus* [la]), but was undoubtedely given its *lettres de noblesse* [fr] through Robespierre as *[ennemi du peuple](http://gallica.bnf.fr/ark:/12148/bpt6k56373g/f2.image)* [fr] during *la Terreur* [fr].
