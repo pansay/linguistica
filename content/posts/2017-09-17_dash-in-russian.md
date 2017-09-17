@@ -11,6 +11,14 @@ The last line is a little different. Лагеря НКВД [ru]. What could it m
 
 The order is signed by Николай Иванович Ежов, the chief of that same НКВД, under orders from Иосиф Сталин.
 
+Лагеря is the plural of Лагер, which is literally the German word *Lager* [de], as in *Konzentrationslager* [de].
+
+NKVD's camps: the concentration camps administered by the NKVD, Stalin's political police, to which *troikas* (a group of three people) could send anyone they wanted. The term Gulag is a semi-acronym, ГУЛаг, in which Лаг is short for Lager: it means simply the General Administration of the Lagers -- of the concentration camps.
+
+So the last line is the camps itself, hence the dash: even among the *zek* population, there were still death quotas to be met.
+
+Does it make sense to list it as a region? Well Солжени́цын thought so: in his...
+
 
 hostis publicus 
 
