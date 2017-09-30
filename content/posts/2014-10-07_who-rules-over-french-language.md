@@ -41,7 +41,7 @@ This is already more about *jacobinisme* [fr] (the central power of Paris over F
 >
 > &ndash; [Commission on French impoverishment](http://www.culture.gouv.fr/culture/dglf/terminologie/termino_enrichissement.htm)
 
-Let me translate that for you: *In order to avoid that people who know what they're talking about use relevant and precise words, spontaneously adopted by them and then the general population, we shall use your tax money in order to foster bunches of bureaucrats. Those bureaucrats will create artificial words that, supposedly, "sound" more French. The new words will usually mostly sound uglier rather then "Frenchier", but we don't care about that. The only objective difference that makes them more French is that only the French will use them. Assuming they do. That is, assuming we somehow coerce them into it or pressure them or subsdizize it. That is all.*
+Let me translate that for you: *In order to avoid that people who know what they're talking about use relevant and precise words, spontaneously adopted by them and then the general population, we shall use your tax money in order to foster bunches of bureaucrats. Those bureaucrats will create artificial words that, supposedly, "sound" more French. The new words will usually mostly sound uglier rather then "Frenchier", but we don't care about that. The only objective difference that makes them more French is that only the French will use them. Assuming they do. That is, assuming we somehow coerce them into it or pressure them or subsidize it. That is all.*
 
 As a French emigrant (or shall I say *[émigré](http://en.wikipedia.org/wiki/%C3%89migr%C3%A9)* [fr]) friend wrote:
 
