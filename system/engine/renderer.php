@@ -4,7 +4,7 @@ class Renderer {
     public static function output ($template, $data) {
         if (file_exists($template)) {
             extract ($data);
-            ini_set('zlib.output_compression','On');
+            //ini_set('zlib.output_compression','On');
             ob_start();
                 include $template;
                 $output = ob_get_contents();
