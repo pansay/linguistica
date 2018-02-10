@@ -1,4 +1,5 @@
 <?php
+ini_set('display_errors', 1);
 include 'config/config.php';
 include 'lib/parsedown.php';
 include 'system/helper/php.php';
