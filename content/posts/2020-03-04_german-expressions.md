@@ -1,7 +1,7 @@
 German expressions
 ===
 
-* *[Das A und O](https://de.wiktionary.org/wiki/das_A_und_O)* [de] -- *L’alpha et l’oméga* [fr].
+* *[Das A und O](https://de.wiktionary.org/wiki/das_A_und_O)* [de] -- *l'alpha et l'oméga* [fr].
 
 * *Das hat jetzt niemand kommen sehen* [de], *Was für eine grosse Überraschung* [de] -- no one saw that one coming, what a big surprise (ironically).
 
