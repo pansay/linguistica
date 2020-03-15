@@ -3,6 +3,8 @@ German expressions
 
 * *[Das A und O](https://de.wiktionary.org/wiki/das_A_und_O)* [de] -- *l'alpha et l'oméga* [fr].
 
+* *[So viel zum Thema](https://context.reverso.net/translation/german-english/So+viel+zum+Thema)* [de] -- *[so much for](https://en.wiktionary.org/wiki/so_much_for)* [en].
+
 * *Das hat jetzt niemand kommen sehen* [de], *Was für eine grosse Überraschung* [de] -- no one saw that one coming, what a big surprise (ironically).
 
 * *"Der/Die hat die tiefen Teller nicht erfunden"* [de] -- in French that would be *ne pas avoir inventé la machine à plier les bananes, le fil à couper le beurre, l'eau tiède, etc.* [fr]. In English, plainly *[not the sharpest knife in the drawer](https://en.wiktionary.org/wiki/not_the_sharpest_knife_in_the_drawer)*.
