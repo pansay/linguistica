@@ -7,7 +7,7 @@ German expressions
 
 * *Das hat jetzt niemand kommen sehen* [de], *Was für eine grosse Überraschung* [de] -- no one saw that one coming, what a big surprise (ironically).
 
-* *"Der/Die hat die tiefen Teller nicht erfunden"* [de] -- in French that would be *ne pas avoir inventé la machine à plier les bananes, le fil à couper le beurre, l'eau tiède, etc.* [fr]. In English, plainly *[not the sharpest knife in the drawer](https://en.wiktionary.org/wiki/not_the_sharpest_knife_in_the_drawer)*.
+* *"Der/Die hat die tiefen Teller nicht erfunden"* [de] -- in French that would be *ne pas avoir inventé la machine à plier les bananes, le fil à couper le beurre, l'eau tiède, la poudre, etc.* [fr]. In English, plainly *[not the sharpest knife in the drawer](https://en.wiktionary.org/wiki/not_the_sharpest_knife_in_the_drawer)*.
 
 * *[Auch nur mit Wasser kochen](https://en.wiktionary.org/wiki/auch_nur_mit_Wasser_kochen)* [de] a beautiful statement of the *[identity of rights of all human beings](http://laissez-faire.ch/en/articles/the-impossibility-of-a-non-libertarian-philosophy-of-law/)*. In English: *[put one's pants on one leg at a time](https://en.wiktionary.org/wiki/put_one%27s_pants_on_one_leg_at_a_time)* [en], [e.g. in this movie](https://getyarn.io/yarn-clip/ca4f5e6d-bfd1-4024-a20d-c04a52bcb2cc).
 
