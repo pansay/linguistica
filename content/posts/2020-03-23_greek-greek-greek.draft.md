@@ -1,4 +1,12 @@
-Plus intéressant, propina [es] = pro-pina = pur grec grec via latin 
+Greek, Greek, Greek
+===
+
+Continuing on our [previous article about Greek](greek).
+
+https://translate.google.com/#view=home&op=translate&sl=es&tl=el&text=hora
+
+
+Plus intéressant, propina [es] = pro-pina = pur grec grec via latin
 
 https://fr.wiktionary.org/wiki/%CF%80%CE%AF%CE%BD%CF%89
 https://fr.wiktionary.org/wiki/%CF%80%CF%81%CF%8C
