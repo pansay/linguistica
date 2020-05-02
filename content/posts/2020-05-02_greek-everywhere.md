@@ -15,40 +15,17 @@ Continuing on our [previous article about Greek](greek)...
 
 * *αυτοκίνητο* [el], *автомобиль* [ru]. Notice the close pronunciation of the *[auto](https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE-)* part. [See](learning-russian)?
 
+* *[χελώνα](https://en.wiktionary.org/wiki/%CF%87%CE%B5%CE%BB%CF%8E%CE%BD%CE%B1#Greek)* [el], *[želva](https://en.wiktionary.org/wiki/%C5%BEelva)* [cs]
 
-https://en.wiktionary.org/wiki/%CF%87%CE%B5%CE%BB%CF%8E%CE%BD%CE%B7#Ancient_Greek
+* [Like in German](https://translate.google.com/#view=home&op=translate&sl=de&tl=el&text=das%20M%C3%A4dchen%2C%20der%20Mann%2C%20die%20Frau%2C%20der%20Junge), *the girl* [en] is neutral. Unlike German, however, *the boy* [en] is also neutral!
 
+* *γυναίκα* [el], think *gynecologist* [en] -- someone who studies women.
 
-https://en.wiktionary.org/wiki/%C5%BEelva
-
-https://en.wiktionary.org/wiki/%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1#Ancient_Greek
-
-
-https://en.wiktionary.org/wiki/%CF%80%CF%81%CE%BF%CE%B2%CE%AC%CE%BB%CE%BB%CF%89#Ancient_Greek
-
-https://en.wiktionary.org/wiki/%CE%B2%CE%AC%CE%BB%CE%BB%CF%89#Ancient_Greek
-
-https://en.wiktionary.org/wiki/ballistic
-
-
-The girl is neutral, like in German!
-
-https://translate.google.com/#view=home&op=translate&sl=de&tl=el&text=das%20M%C3%A4dchen%2C%20der%20Mann%2C%20die%20Frau
-
-
-https://translate.google.com/#view=home&op=translate&sl=en&tl=ru&text=automatic
-
-https://en.wiktionary.org/wiki/gynecologist
-
-γυναίκα
-
-https://en.wiktionary.org/wiki/%D1%81%D0%BE%D1%80%D0%BE%D0%BA#Etymology_1
-
-сорок
-σαράντα
-
+* *σαράντα* [el], possibly related to *[сорок](https://en.wiktionary.org/wiki/%D1%81%D0%BE%D1%80%D0%BE%D0%BA#Etymology_1)* [ru]
 
 * *[κόστος](https://en.wiktionary.org/wiki/%CE%BA%CF%8C%CF%83%CF%84%CE%BF%CF%82#Greek)* [el] from *costo* [it].
+
+* *[πρόβλημα](https://en.wiktionary.org/wiki/%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1)* [el] is related to *[ballistic](https://en.wiktionary.org/wiki/ballistic)* [en] -- the original meaning of problem is therefore an *artificial* obstacle that someone *throws* before you.
 
 We also need to update [our weekdays table](hebrew):
 
