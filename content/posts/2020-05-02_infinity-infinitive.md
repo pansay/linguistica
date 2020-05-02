@@ -1,7 +1,7 @@
 Infinity Infinitive
 ===
 
-Who needs cojugation when you can just use the infinitive?
+Who needs conjugation when you can just use the infinitive?
 
 Hence the German *[Ersatzinfinitiv](https://de.wikipedia.org/wiki/Ersatzinfinitiv)* [de].
 

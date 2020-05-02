@@ -1,7 +1,7 @@
 Greek everywhere
 ===
 
-[Greek, Greek everywhere]((images/greek-everywhere.jpg))!
+[Greek, Greek everywhere](images/greek-everywhere.jpg)!
 
 Continuing on our [previous article about Greek](greek)...
 
