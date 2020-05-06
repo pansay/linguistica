@@ -5,7 +5,9 @@ Greek everywhere
 
 Continuing on our [previous article about Greek](greek)...
 
-* *hora* [es], *ώρα* [el]
+Some of these cases it's a Greek word used in another language, some it's the other way round, some they are cognates. Doesn't really matter for our purposes.
+
+* *ώρα* [el], *hora* [es]
 
 * You remember *πίνω* [el] of course, cousin of *пить* [ru]? Well there's also *propina* [es], straight from Greek through Latin, literally *pourboire* [fr]. German has a similar word-concept: *Trinkgeld* [de], money for drinking.
 
@@ -26,6 +28,14 @@ Continuing on our [previous article about Greek](greek)...
 * *[κόστος](https://en.wiktionary.org/wiki/%CE%BA%CF%8C%CF%83%CF%84%CE%BF%CF%82#Greek)* [el] from *costo* [it].
 
 * *[πρόβλημα](https://en.wiktionary.org/wiki/%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1)* [el] is related to *[ballistic](https://en.wiktionary.org/wiki/ballistic)* [en] -- the original meaning of problem is therefore an *artificial* obstacle that someone *throws* before you.
+
+* *[χόρτο](https://en.wiktionary.org/wiki/%CF%87%CF%8C%CF%81%CF%84%CE%BF)* [el], *[horto](https://en.wiktionary.org/wiki/horto)* [pt]
+
+* *[φρέσκο](https://el.wiktionary.org/wiki/%CF%86%CF%81%CE%AD%CF%83%CE%BA%CE%BF)* [el], *fresco* [it]
+
+* *ζουμί* [el], *zumo* [es]
+
+* *πιό* [el], *più* [it]
 
 We also need to update [our weekdays table](hebrew):
 
