@@ -25,7 +25,7 @@ class Main {
 
     public function dispatch () {
         if (isset($_GET['route'])) {
-            $route = String::cleanRoute($_GET['route']);
+            $route = StringClass::cleanRoute($_GET['route']);
         }
         if ($route === '') { // home
             $this->viewPosts();
